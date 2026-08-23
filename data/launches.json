@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T03:36:32.895619+00:00",
-  "count": 5,
+  "generated_at": "2026-08-23T13:29:45.396302+00:00",
+  "count": 4,
   "launches": [
     {
       "company": "Xbox",
@@ -41,16 +41,6 @@
       "year": "2026",
       "timestamp": "2026-08-20T00:00:00+00:00",
       "category": "AI / Models"
-    },
-    {
-      "company": "Meta",
-      "title": "Launching \u2018Meta Startup School\u2019 to Accelerate Growth For Early-Stage Startups",
-      "summary": "We are launching Meta Startup School, a three-month programme designed to help early-stage consumer brands accelerate growth. The first cohort will see 200 startups get exclusive a\u2026",
-      "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
-      "date": "Aug 19",
-      "year": "2026",
-      "timestamp": "2026-08-19T11:00:22+00:00",
-      "category": "Other"
     }
   ]
 }
