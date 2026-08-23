@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ship Log — What Launched Today</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#ffffff;
+    --ink-2:#f7f6f1;
+    --paper:#1c1c16;
+    --paper-dim:#6b6a5e;
+    --amber:#b9781f;
+    --teal:#3f6d63;
+    --rule:#e3e0d4;
+    --rule-bright:#cac6b5;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{background:var(--ink);color:var(--paper);font-family:'Inter',sans-serif;min-height:100vh;}
+  ::selection{background:var(--amber);color:#fff;}
+
+  header{position:relative;padding:56px 6vw 40px;border-bottom:1px solid var(--rule);overflow:hidden;}
+  .eyebrow{font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--teal);display:flex;align-items:center;gap:10px;margin-bottom:18px;}
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 3px rgba(232,163,61,.18);}
+  h1{font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(36px,6.5vw,78px);line-height:.98;margin:0 0 18px;letter-spacing:-.01em;}
+  h1 span{color:var(--amber);}
+  .sub{max-width:640px;color:var(--paper-dim);font-size:15.5px;line-height:1.6;}
+  .stamp{position:absolute;top:44px;right:6vw;font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--amber);padding:10px 16px;transform:rotate(4deg);border:2px solid var(--paper);box-shadow:4px 4px 0 rgba(0,0,0,.12);}
+  @media (max-width:720px){ .stamp{position:static;display:inline-block;margin-top:20px;transform:rotate(-2deg);} }
+
+  .note{padding:16px 6vw;border-bottom:1px solid var(--rule);background:var(--ink-2);font-size:13px;color:var(--paper-dim);line-height:1.6;}
+  .note b{color:var(--paper);}
+  .note a{color:var(--teal);}
+
+  .filters{display:flex;flex-wrap:wrap;gap:8px;padding:22px 6vw;border-bottom:1px solid var(--rule);position:sticky;top:0;background:rgba(20,20,15,.92);backdrop-filter:blur(6px);z-index:10;}
+  .chip{font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.03em;padding:8px 14px;border:1px solid var(--rule-bright);border-radius:999px;background:transparent;color:var(--paper-dim);cursor:pointer;transition:all .15s ease;white-space:nowrap;}
+  .chip:hover{border-color:var(--amber);color:var(--paper);}
+  .chip.active{background:var(--amber);border-color:var(--amber);color:#fff;font-weight:700;}
+
+  main{padding:10px 6vw 80px;}
+  .wire{border-top:1px solid var(--rule);}
+  .row{display:grid;grid-template-columns:96px 1fr auto;gap:22px;align-items:start;padding:26px 0;border-bottom:1px solid var(--rule);transition:background .15s ease;}
+  .row:hover{background:rgba(232,163,61,.04);}
+  .date{font-family:'Space Mono',monospace;font-size:13px;color:var(--paper-dim);line-height:1.4;padding-top:4px;}
+  .date .d{display:block;font-size:22px;font-weight:700;color:var(--amber);line-height:1;margin-bottom:4px;}
+  .info h3{margin:0 0 6px;font-size:19px;font-weight:700;letter-spacing:-.01em;}
+  .info h3 .co{color:var(--teal);font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.05em;text-transform:uppercase;font-weight:400;display:block;margin-bottom:5px;}
+  .tagline{color:var(--paper-dim);font-size:14.5px;line-height:1.5;margin:0 0 12px;max-width:58ch;}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
+  .tag{font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--teal);border:1px solid rgba(92,144,134,.4);padding:3px 9px;border-radius:4px;}
+  .price{text-align:right;font-family:'Space Mono',monospace;white-space:nowrap;color:var(--paper-dim);font-size:13px;padding-top:6px;}
+  @media (max-width:640px){
+    .row{grid-template-columns:60px 1fr;}
+    .price{grid-column:2;text-align:left;padding-top:8px;}
+    .date .d{font-size:16px;}
+  }
+
+  footer{padding:32px 6vw 60px;color:var(--paper-dim);font-size:12.5px;border-top:1px solid var(--rule);line-height:1.7;}
+  footer a{color:var(--teal);}
+  .sponsor-section{padding:36px 6vw;border-bottom:1px solid var(--rule);}
+  .sponsor-label{font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--paper-dim);margin-bottom:16px;}
+  .sponsor-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;}
+  .ad-slot{
+    border:1px dashed var(--rule-bright);
+    border-radius:10px;
+    padding:20px;
+    min-height:110px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    gap:6px;
+    background:var(--ink-2);
+    transition:border-color .15s ease;
+  }
+  .ad-slot:hover{border-color:var(--amber);}
+  .ad-slot .ad-tag{font-family:'Space Mono',monospace;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--teal);}
+  .ad-slot .ad-name{font-weight:700;font-size:15px;}
+  .ad-slot .ad-copy{font-size:13px;color:var(--paper-dim);line-height:1.4;}
+  .ad-slot.open{align-items:center;text-align:center;color:var(--paper-dim);}
+  .ad-slot.open a{color:var(--amber);text-decoration:none;font-family:'Space Mono',monospace;font-size:12px;border-bottom:1px solid var(--amber);}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="stamp">Updated Daily</div>
+  <div class="eyebrow"><span class="dot"></span>The Ship Log</div>
+  <h1>What launched<br><span>today.</span></h1>
+  <p class="sub">Real product launches from major, name-brand companies — Google, Meta, OpenAI, Samsung, Sony, and others — pulled fresh from their own newsrooms.</p>
+</header>
+
+<div class="note">
+  <b>How this works:</b> pulled straight from major companies' own newsroom feeds and refreshed daily — big companies don't launch something new every single day, so this shows the most recent real launches, not only ones from the last 24 hours. <span id="updated">Loading latest data…</span>
+</div>
+
+<section class="sponsor-section">
+  <div class="sponsor-label">Sponsored</div>
+  <div class="sponsor-grid">
+    <div class="ad-slot">
+      <span class="ad-tag">Sponsored</span>
+      <span class="ad-name">Your product name</span>
+      <span class="ad-copy">One line about what you shipped, linking straight to your launch page.</span>
+    </div>
+    <div class="ad-slot">
+      <span class="ad-tag">Sponsored</span>
+      <span class="ad-name">Your product name</span>
+      <span class="ad-copy">One line about what you shipped, linking straight to your launch page.</span>
+    </div>
+    <div class="ad-slot open">
+      <span>This space is open.</span>
+      <a href="mailto:ads@yourdomain.com">Advertise here →</a>
+    </div>
+  </div>
+</section>
+
+<div class="filters" id="filters"></div>
+
+<main>
+  <div class="wire" id="wire"></div>
+</main>
+
+<footer>
+  Compiled from company newsrooms and tech press coverage (9to5Mac, SamMobile, TechStartups, NBC Select, Gear Patrol, Product Hunt) as of August 22, 2026. Dates reflect announced or on-sale dates where available.
+</footer>
+
+<script>
+// Fallback shown only if data/launches.json hasn't been generated yet
+// (e.g. viewing this file locally before the first Action run).
+const FALLBACK = [
+  {date:"Aug 22", year:"2026", company:"Meta", name:"Pocket", tagline:"Vibe-code small games in-app, then share them like short-form video clips.", cat:"Consumer Software", url:"#"},
+  {date:"Aug 20", year:"2026", company:"xAI", name:"Grok 4.6", tagline:"xAI's latest frontier model, built for long-running autonomous agent tasks.", cat:"AI / Models", url:"#"},
+  {date:"Aug 18", year:"2026", company:"OpenAI", name:"ChatGPT for Teens", tagline:"A dedicated, age-specific version of ChatGPT with added safety guardrails for teenage users.", cat:"Consumer Software", url:"#"},
+  {date:"Aug 12", year:"2026", company:"Google", name:"Pixel 11 / 11 Pro / 11 Pro XL", tagline:"New flagship phones with the Tensor G6 chip and deeper Gemini AI integration.", cat:"Mobile Hardware", url:"#"},
+];
+
+const filtersEl = document.getElementById('filters');
+const wireEl = document.getElementById('wire');
+const updatedEl = document.getElementById('updated');
+let products = FALLBACK;
+
+function render(filter){
+  wireEl.innerHTML = products
+    .filter(p => filter === "All" || p.cat === filter)
+    .map(p => `
+      <div class="row">
+        <div class="date"><span class="d">${p.date}</span>${p.year}</div>
+        <div class="info">
+          <h3><span class="co">${p.company}</span><a href="${p.url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">${p.name}</a></h3>
+          <p class="tagline">${p.tagline}</p>
+          <div class="meta"><span class="tag">${p.cat}</span></div>
+        </div>
+      </div>
+    `).join('');
+}
+
+function setupFilters(){
+  const cats = ["All", ...Array.from(new Set(products.map(p=>p.cat)))];
+  filtersEl.innerHTML = cats.map((c,i) => `<button class="chip ${i===0?'active':''}" data-cat="${c}">${c}</button>`).join('');
+  filtersEl.addEventListener('click', e => {
+    const btn = e.target.closest('.chip');
+    if(!btn) return;
+    filtersEl.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    btn.classList.add('active');
+    render(btn.dataset.cat);
+  });
+}
+
+async function init(){
+  try{
+    const res = await fetch('data/launches.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no data file yet');
+    const data = await res.json();
+    if(data.launches && data.launches.length){
+      products = data.launches.map(l => ({
+        date: l.date || "—",
+        year: l.year || "",
+        company: l.company,
+        name: l.title,
+        tagline: l.summary,
+        cat: l.category || l.company,
+        url: l.url || "#",
+      }));
+    }
+    if (updatedEl && data.generated_at){
+      updatedEl.textContent = "Last refreshed " + new Date(data.generated_at).toLocaleString();
+    }
+  }catch(e){
+    if (updatedEl) updatedEl.textContent = "Showing sample data — daily refresh hasn't run yet.";
+  }
+  setupFilters();
+  render("All");
+}
+
+init();
+</script>
+
+</body>
+</html>
