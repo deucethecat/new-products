@@ -1,5 +1,56 @@
 {
-  "generated_at": "2026-08-23T02:57:07.514005+00:00",
-  "count": 0,
-  "launches": []
+  "generated_at": "2026-08-23T03:36:32.895619+00:00",
+  "count": 5,
+  "launches": [
+    {
+      "company": "Xbox",
+      "title": "Tails of Iron 2\u2019s Free Blood and Brine Expansion Sets Sail Today",
+      "summary": "Peace has finally returned to the Ratdom, but it appears nobody remembered to tell the creatures lurking beneath its waters. Today, we\u2019re launching Blood and Brine, the expansion f\u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/21/tails-of-iron-2-blood-and-brine-out-now/",
+      "date": "Aug 21",
+      "year": "2026",
+      "timestamp": "2026-08-21T15:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Code Vein II Mask of Idris DLC launches September 9",
+      "summary": "Earlier this year, Code Vein II invited players into a post-apocalyptic action RPG where they fight alongside unique partners, wield powerful blood-based abilities, and battle fier\u2026",
+      "url": "https://blog.playstation.com/2026/08/20/code-vein-ii-mask-of-idris-dlc-launches-september-9/",
+      "date": "Aug 20",
+      "year": "2026",
+      "timestamp": "2026-08-20T14:00:56+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Introduces New Over-the-Range Microwave With DualVent Technology",
+      "summary": "Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation sy\u2026",
+      "url": "https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology",
+      "date": "Aug 20",
+      "year": "2026",
+      "timestamp": "2026-08-20T08:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli",
+      "date": "Aug 20",
+      "year": "2026",
+      "timestamp": "2026-08-20T00:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Meta",
+      "title": "Launching \u2018Meta Startup School\u2019 to Accelerate Growth For Early-Stage Startups",
+      "summary": "We are launching Meta Startup School, a three-month programme designed to help early-stage consumer brands accelerate growth. The first cohort will see 200 startups get exclusive a\u2026",
+      "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+      "date": "Aug 19",
+      "year": "2026",
+      "timestamp": "2026-08-19T11:00:22+00:00",
+      "category": "Other"
+    }
+  ]
 }
