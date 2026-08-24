@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T13:29:45.396302+00:00",
-  "count": 4,
+  "generated_at": "2026-08-24T13:48:43.903027+00:00",
+  "count": 2,
   "launches": [
     {
       "company": "Xbox",
@@ -21,26 +21,6 @@
       "year": "2026",
       "timestamp": "2026-08-20T14:00:56+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Introduces New Over-the-Range Microwave With DualVent Technology",
-      "summary": "Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation sy\u2026",
-      "url": "https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology",
-      "date": "Aug 20",
-      "year": "2026",
-      "timestamp": "2026-08-20T08:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "date": "Aug 20",
-      "year": "2026",
-      "timestamp": "2026-08-20T00:00:00+00:00",
-      "category": "AI / Models"
     }
   ]
 }
