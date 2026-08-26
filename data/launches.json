@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-25T13:46:57.026905+00:00",
-  "count": 5,
+  "generated_at": "2026-08-26T13:52:28.175235+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "Meta",
+      "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
+      "summary": "We are announcing an agreement we have reached with a bipartisan group of state attorneys general, building on our longstanding efforts to empower parents and support teens. The po\u2026",
+      "url": "https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/",
+      "date": "Aug 26",
+      "year": "2026",
+      "timestamp": "2026-08-26T13:37:57+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Meta",
+      "title": "Our Agreement With Bipartisan Attorneys General: Calling on TikTok and YouTube to Join Us in Supporting Teens",
+      "summary": "Today, we are announcing an agreement with a bipartisan group of 51 attorneys general across US states, territories, and the District of Columbia, building on our longstanding effo\u2026",
+      "url": "https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/",
+      "date": "Aug 26",
+      "year": "2026",
+      "timestamp": "2026-08-26T13:31:53+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "State of Decay 3: Closed Beta Playtests Will Open the Game to Even More Players This Year",
+      "summary": "Survivors, start stocking up on supplies because you&#8217;re going to want to be ready. Closed beta playtests for State of Decay 3 are on the way before the end of 2026, giving th\u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/26/state-of-decay-3-closed-beta-playtests/",
+      "date": "Aug 26",
+      "year": "2026",
+      "timestamp": "2026-08-26T10:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
+      "summary": "Launching September 4 for PlayStation 5, Onimusha: Way of the Sword brings players to early Edo-period Kyoto, a historic capital under siege by monstrous fiends known as Genma. Pla\u2026",
+      "url": "https://blog.playstation.com/2026/08/25/onimusha-way-of-the-sword-interview-demo-update-detailed-new-trailer-revealed/",
+      "date": "Aug 25",
+      "year": "2026",
+      "timestamp": "2026-08-25T20:23:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased v\u2026",
+      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+      "date": "Aug 25",
+      "year": "2026",
+      "timestamp": "2026-08-25T15:30:48+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Xbox",
+      "title": "Introducing the Designed for XBOX 25th Anniversary Collection",
+      "summary": "To help celebrate 25 years of XBOX, the Designed for XBOX 25th Anniversary Collection is now available for preorder. Inspired by the original console, this set pairs nostalgic tran\u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/25/designed-for-xbox-25th-annversary-accessories-hardware/",
+      "date": "Aug 25",
+      "year": "2026",
+      "timestamp": "2026-08-25T14:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Samsung",
       "title": "An Easier Way To Switch to the New Galaxy Z Fold8",
@@ -41,16 +101,6 @@
       "year": "2026",
       "timestamp": "2026-08-24T12:00:00+00:00",
       "category": "AI / Models"
-    },
-    {
-      "company": "Xbox",
-      "title": "Tails of Iron 2\u2019s Free Blood and Brine Expansion Sets Sail Today",
-      "summary": "Peace has finally returned to the Ratdom, but it appears nobody remembered to tell the creatures lurking beneath its waters. Today, we\u2019re launching Blood and Brine, the expansion f\u2026",
-      "url": "https://news.xbox.com/en-us/2026/08/21/tails-of-iron-2-blood-and-brine-out-now/",
-      "date": "Aug 21",
-      "year": "2026",
-      "timestamp": "2026-08-21T15:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
