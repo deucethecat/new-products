@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-26T13:52:28.175235+00:00",
-  "count": 10,
+  "generated_at": "2026-08-27T22:45:59.555546+00:00",
+  "count": 13,
   "launches": [
+    {
+      "company": "Samsung",
+      "title": "Samsung Galaxy S26 FE: Delivering the Latest Flagship Experience, Focused on What Matters Most",
+      "summary": "Samsung Electronics today announced Galaxy S26 FE, the newest addition to the Galaxy S26 family and the first in the lineup to launch with One UI 9 \u2014 bringing the latest premium Ga\u2026",
+      "url": "https://news.samsung.com/global/samsung-galaxy-s26-fe-delivering-the-latest-flagship-experience-focused-on-what-matters-most",
+      "date": "Aug 27",
+      "year": "2026",
+      "timestamp": "2026-08-27T21:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Partnering with Khan Academy on building AI tools for classrooms",
+      "summary": "Interactive visual aids and teacher-controlled practice materials \u2014 both built with Gemini \u2014 are launching for the new school year.",
+      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+      "date": "Aug 27",
+      "year": "2026",
+      "timestamp": "2026-08-27T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "Gravhounds Revealed: Co-op Chaos with Bio-Engineered Dogs in Space",
+      "summary": "This week at gamescom, we finally revealed Gravhounds, the first game from our seven-person independent studio, Octopus Panic \u2013 it\u2019s set to launch into Game Preview on XBOX Series \u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/27/gravhounds-revealed-co-op-chaos-bio-engineered-dogs-in-space/",
+      "date": "Aug 27",
+      "year": "2026",
+      "timestamp": "2026-08-27T11:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "Star Wars Zero Company Tips for Tactics Padawans",
+      "summary": "Star Wars Zero Company is finally out August 27, 2026, on XBOX Series X&#124;S. This tactics game set during the Clone Wars is the debut from Bit Reactor, which was founded by vete\u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/26/star-wars-zero-company-tips/",
+      "date": "Aug 26",
+      "year": "2026",
+      "timestamp": "2026-08-26T19:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Sega gameplay updates: Persona 4 Revival, Crazy Taxi: World Tour, Total War: Warhammer 40,000, and more",
+      "summary": "Over the past several months, Sega has pulled back the curtain on many high-profile projects from its global studios. At Gamescom 2026, six of our titles will make their playable d\u2026",
+      "url": "https://blog.playstation.com/2026/08/26/sega-gameplay-updates-persona-4-revival-crazy-taxi-world-tour-total-war-warhammer-40000-and-more/",
+      "date": "Aug 26",
+      "year": "2026",
+      "timestamp": "2026-08-26T15:00:17+00:00",
+      "category": "Other"
+    },
     {
       "company": "Meta",
       "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
@@ -23,16 +73,6 @@
       "category": "Other"
     },
     {
-      "company": "Xbox",
-      "title": "State of Decay 3: Closed Beta Playtests Will Open the Game to Even More Players This Year",
-      "summary": "Survivors, start stocking up on supplies because you&#8217;re going to want to be ready. Closed beta playtests for State of Decay 3 are on the way before the end of 2026, giving th\u2026",
-      "url": "https://news.xbox.com/en-us/2026/08/26/state-of-decay-3-closed-beta-playtests/",
-      "date": "Aug 26",
-      "year": "2026",
-      "timestamp": "2026-08-26T10:00:00+00:00",
-      "category": "Gaming"
-    },
-    {
       "company": "PlayStation",
       "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
       "summary": "Launching September 4 for PlayStation 5, Onimusha: Way of the Sword brings players to early Edo-period Kyoto, a historic capital under siege by monstrous fiends known as Genma. Pla\u2026",
@@ -51,16 +91,6 @@
       "year": "2026",
       "timestamp": "2026-08-25T15:30:48+00:00",
       "category": "Gaming"
-    },
-    {
-      "company": "Xbox",
-      "title": "Introducing the Designed for XBOX 25th Anniversary Collection",
-      "summary": "To help celebrate 25 years of XBOX, the Designed for XBOX 25th Anniversary Collection is now available for preorder. Inspired by the original console, this set pairs nostalgic tran\u2026",
-      "url": "https://news.xbox.com/en-us/2026/08/25/designed-for-xbox-25th-annversary-accessories-hardware/",
-      "date": "Aug 25",
-      "year": "2026",
-      "timestamp": "2026-08-25T14:00:00+00:00",
-      "category": "Video Games"
     },
     {
       "company": "Samsung",
