@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-27T22:45:59.555546+00:00",
-  "count": 13,
+  "generated_at": "2026-08-28T22:52:01.283818+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "OpenAI",
+      "title": "Supporting Thailand\u2019s next generation of AI startups",
+      "summary": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "date": "Aug 28",
+      "year": "2026",
+      "timestamp": "2026-08-28T02:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Samsung",
       "title": "Samsung Galaxy S26 FE: Delivering the Latest Flagship Experience, Focused on What Matters Most",
@@ -30,16 +40,6 @@
       "date": "Aug 27",
       "year": "2026",
       "timestamp": "2026-08-27T11:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Star Wars Zero Company Tips for Tactics Padawans",
-      "summary": "Star Wars Zero Company is finally out August 27, 2026, on XBOX Series X&#124;S. This tactics game set during the Clone Wars is the debut from Bit Reactor, which was founded by vete\u2026",
-      "url": "https://news.xbox.com/en-us/2026/08/26/star-wars-zero-company-tips/",
-      "date": "Aug 26",
-      "year": "2026",
-      "timestamp": "2026-08-26T19:00:00+00:00",
       "category": "Video Games"
     },
     {
@@ -73,16 +73,6 @@
       "category": "Other"
     },
     {
-      "company": "PlayStation",
-      "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
-      "summary": "Launching September 4 for PlayStation 5, Onimusha: Way of the Sword brings players to early Edo-period Kyoto, a historic capital under siege by monstrous fiends known as Genma. Pla\u2026",
-      "url": "https://blog.playstation.com/2026/08/25/onimusha-way-of-the-sword-interview-demo-update-detailed-new-trailer-revealed/",
-      "date": "Aug 25",
-      "year": "2026",
-      "timestamp": "2026-08-25T20:23:00+00:00",
-      "category": "Video Games"
-    },
-    {
       "company": "Nvidia",
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased v\u2026",
@@ -111,26 +101,6 @@
       "year": "2026",
       "timestamp": "2026-08-25T06:02:04+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon hourly employees became satellite technicians\u2014then watched their work launch into space",
-      "summary": "Career Choice is helping eligible Amazon employees earn certifications and launch new aerospace careers with Amazon Leo.",
-      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss",
-      "date": "Aug 24",
-      "year": "2026",
-      "timestamp": "2026-08-24T14:00:25+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
-      "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "date": "Aug 24",
-      "year": "2026",
-      "timestamp": "2026-08-24T12:00:00+00:00",
-      "category": "AI / Models"
     }
   ]
 }
