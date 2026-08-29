@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:52:01.283818+00:00",
-  "count": 10,
+  "generated_at": "2026-08-29T16:57:46.217526+00:00",
+  "count": 7,
   "launches": [
     {
       "company": "OpenAI",
@@ -70,36 +70,6 @@
       "date": "Aug 26",
       "year": "2026",
       "timestamp": "2026-08-26T13:31:53+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased v\u2026",
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "date": "Aug 25",
-      "year": "2026",
-      "timestamp": "2026-08-25T15:30:48+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Samsung",
-      "title": "An Easier Way To Switch to the New Galaxy Z Fold8",
-      "summary": "Getting a new phone should be exciting, but moving data from an existing device can sometimes feel like a hassle. Especially for users switching from iOS to Galaxy, being able to b\u2026",
-      "url": "https://news.samsung.com/global/an-easier-way-to-switch-to-the-new-galaxy-z-fold8",
-      "date": "Aug 25",
-      "year": "2026",
-      "timestamp": "2026-08-25T08:00:00+00:00",
-      "category": "Mobile Hardware"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing the Edits Film Festival to Spotlight India\u2019s Emerging Creator Talent",
-      "summary": "Today, we announce the launch of the Edits Film Festival \u2014 an initiative that invites content creators across India to showcase their creativity through Reels made on Edits. The po\u2026",
-      "url": "https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/",
-      "date": "Aug 25",
-      "year": "2026",
-      "timestamp": "2026-08-25T06:02:04+00:00",
       "category": "Other"
     }
   ]
