@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T16:57:46.217526+00:00",
-  "count": 7,
+  "generated_at": "2026-08-30T17:11:31.074659+00:00",
+  "count": 4,
   "launches": [
     {
       "company": "OpenAI",
@@ -41,36 +41,6 @@
       "year": "2026",
       "timestamp": "2026-08-27T11:00:00+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Sega gameplay updates: Persona 4 Revival, Crazy Taxi: World Tour, Total War: Warhammer 40,000, and more",
-      "summary": "Over the past several months, Sega has pulled back the curtain on many high-profile projects from its global studios. At Gamescom 2026, six of our titles will make their playable d\u2026",
-      "url": "https://blog.playstation.com/2026/08/26/sega-gameplay-updates-persona-4-revival-crazy-taxi-world-tour-total-war-warhammer-40000-and-more/",
-      "date": "Aug 26",
-      "year": "2026",
-      "timestamp": "2026-08-26T15:00:17+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Meta",
-      "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
-      "summary": "We are announcing an agreement we have reached with a bipartisan group of state attorneys general, building on our longstanding efforts to empower parents and support teens. The po\u2026",
-      "url": "https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/",
-      "date": "Aug 26",
-      "year": "2026",
-      "timestamp": "2026-08-26T13:37:57+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Meta",
-      "title": "Our Agreement With Bipartisan Attorneys General: Calling on TikTok and YouTube to Join Us in Supporting Teens",
-      "summary": "Today, we are announcing an agreement with a bipartisan group of 51 attorneys general across US states, territories, and the District of Columbia, building on our longstanding effo\u2026",
-      "url": "https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/",
-      "date": "Aug 26",
-      "year": "2026",
-      "timestamp": "2026-08-26T13:31:53+00:00",
-      "category": "Other"
     }
   ]
 }
