@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-30T17:11:31.074659+00:00",
+  "generated_at": "2026-08-31T19:22:30.867782+00:00",
   "count": 4,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Live TV on PS5 launches today, bringing free ad-supported TV to PS5 players in the U.S.",
+      "summary": "Starting later today, Live TV on PS5 will be available to PS5 players in the U.S., offering a free ad-supported experience from Sony Pictures Television. Players can discover more \u2026",
+      "url": "https://blog.playstation.com/2026/08/31/live-tv-on-ps5-launches-today-bringing-free-ad-supported-tv-to-ps5-players-in-the-u-s/",
+      "date": "Aug 31",
+      "year": "2026",
+      "timestamp": "2026-08-31T16:00:17+00:00",
+      "category": "Consumer Hardware"
+    },
+    {
+      "company": "Amazon",
+      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
+      "summary": "AWS and HUMAIN deepen partnership with a commitment to deliver up to 50MW of capacity in Saudi\u2019s first AI Zone by 2028.",
+      "url": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia?utm_source=rss",
+      "date": "Aug 31",
+      "year": "2026",
+      "timestamp": "2026-08-31T14:08:31+00:00",
+      "category": "Other"
+    },
     {
       "company": "OpenAI",
       "title": "Supporting Thailand\u2019s next generation of AI startups",
@@ -21,26 +41,6 @@
       "year": "2026",
       "timestamp": "2026-08-27T21:00:00+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Partnering with Khan Academy on building AI tools for classrooms",
-      "summary": "Interactive visual aids and teacher-controlled practice materials \u2014 both built with Gemini \u2014 are launching for the new school year.",
-      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
-      "date": "Aug 27",
-      "year": "2026",
-      "timestamp": "2026-08-27T16:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Xbox",
-      "title": "Gravhounds Revealed: Co-op Chaos with Bio-Engineered Dogs in Space",
-      "summary": "This week at gamescom, we finally revealed Gravhounds, the first game from our seven-person independent studio, Octopus Panic \u2013 it\u2019s set to launch into Game Preview on XBOX Series \u2026",
-      "url": "https://news.xbox.com/en-us/2026/08/27/gravhounds-revealed-co-op-chaos-bio-engineered-dogs-in-space/",
-      "date": "Aug 27",
-      "year": "2026",
-      "timestamp": "2026-08-27T11:00:00+00:00",
-      "category": "Video Games"
     }
   ]
 }
