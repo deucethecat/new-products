@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-31T19:22:30.867782+00:00",
-  "count": 4,
+  "generated_at": "2026-09-01T17:08:26.334431+00:00",
+  "count": 7,
   "launches": [
+    {
+      "company": "Google",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "We\u2019re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T17:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Built on our latest Nano Banana model, Google Pics \u2014 our image creation and editing tool \u2014 is now available.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "Coming to XBOX Game Pass: RuneScape: Dragonwilds, SpeedRunners 2: King of Speed, The Royal Writ, and More",
+      "summary": "Whether you&#8217;re looking to build a kingdom, survive dragons, or simply run very fast, we&#8217;ve got you covered. The hard part will be deciding where to start first. Let&#82\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/01/xbox-game-pass-update-september-wave-1/",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T16:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Samsung",
+      "title": "[Interview] The People Behind the Galaxy Z Fold8 Series\u2019 Camera Innovations \u2460: How My FanCam Keeps Favorite People in Focus",
+      "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics\u2019 Galaxy Z Fold8 series introduces My FanCam \u2014 a new feature that lets users focus their edits on a person of their choice\u2026",
+      "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-fold8-series-camera-innovations-%e2%91%a0-how-my-fancam-keeps-favorite-people-in-focus",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T09:00:00+00:00",
+      "category": "Consumer Hardware"
+    },
+    {
+      "company": "Xbox",
+      "title": "Rebuilding Better Together for the 1.0 Launch of Young Suns",
+      "summary": "Young Suns is a 1-to-4 player cozy narrative life sim set on Jupiter in the aftermath of a successful revolution, and is leaving Game Preview today! We really wanted to create a un\u2026",
+      "url": "https://news.xbox.com/en-us/2026/08/31/rebuilding-better-together-for-the-1-0-launch-of-young-suns/",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T00:00:00+00:00",
+      "category": "Gaming"
+    },
     {
       "company": "PlayStation",
       "title": "Live TV on PS5 launches today, bringing free ad-supported TV to PS5 players in the U.S.",
@@ -20,26 +70,6 @@
       "date": "Aug 31",
       "year": "2026",
       "timestamp": "2026-08-31T14:08:31+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "summary": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "date": "Aug 28",
-      "year": "2026",
-      "timestamp": "2026-08-28T02:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Galaxy S26 FE: Delivering the Latest Flagship Experience, Focused on What Matters Most",
-      "summary": "Samsung Electronics today announced Galaxy S26 FE, the newest addition to the Galaxy S26 family and the first in the lineup to launch with One UI 9 \u2014 bringing the latest premium Ga\u2026",
-      "url": "https://news.samsung.com/global/samsung-galaxy-s26-fe-delivering-the-latest-flagship-experience-focused-on-what-matters-most",
-      "date": "Aug 27",
-      "year": "2026",
-      "timestamp": "2026-08-27T21:00:00+00:00",
       "category": "Other"
     }
   ]
