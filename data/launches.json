@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-01T17:08:26.334431+00:00",
-  "count": 7,
+  "generated_at": "2026-09-02T16:58:04.215675+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "Google",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "date": "Sep 02",
+      "year": "2026",
+      "timestamp": "2026-09-02T16:00:00+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Spooky cute puzzler Fangtopia launches on PS5 October 26",
+      "summary": "It&#8217;s nearly time to rise from the crypt and build your kingdom! Our upcoming cozy puzzle game Fangtopia has been lurking in the shadows and is ready to creepy-crawl onto Play\u2026",
+      "url": "https://blog.playstation.com/2026/09/02/spooky-cute-puzzler-fangtopia-launches-on-ps5-october-26/",
+      "date": "Sep 02",
+      "year": "2026",
+      "timestamp": "2026-09-02T14:00:02+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "summary": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be\u2026",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "date": "Sep 01",
+      "year": "2026",
+      "timestamp": "2026-09-01T21:19:20+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "Introducing agentic video understanding with Gemini",
