@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T15:45:55.033646+00:00",
-  "count": 12,
+  "generated_at": "2026-09-06T15:57:58.898053+00:00",
+  "count": 9,
   "launches": [
     {
       "company": "Google",
@@ -91,36 +91,6 @@
       "year": "2026",
       "timestamp": "2026-09-02T16:00:00+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "summary": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be\u2026",
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "date": "Sep 01",
-      "year": "2026",
-      "timestamp": "2026-09-01T21:19:20+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "We\u2019re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-      "date": "Sep 01",
-      "year": "2026",
-      "timestamp": "2026-09-01T17:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Google",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics \u2014 our image creation and editing tool \u2014 is now available.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "date": "Sep 01",
-      "year": "2026",
-      "timestamp": "2026-09-01T16:00:00+00:00",
-      "category": "AI / Models"
     }
   ]
 }
