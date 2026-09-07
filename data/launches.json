@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-06T15:57:58.898053+00:00",
-  "count": 9,
+  "generated_at": "2026-09-07T18:05:07.718055+00:00",
+  "count": 5,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Five Reasons to Race into HOT WHEELS Infinite Rush, Out in Early Access Today",
+      "summary": "Hello everyone! Today marks the Early Access launch of HOT WHEELS Infinite Rush, a high-speed arcade racing experience set in dynamic, freely explorable environments, all recreated\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/07/hot-wheels-infinite-rush-early-access-xbox/",
+      "date": "Sep 07",
+      "year": "2026",
+      "timestamp": "2026-09-07T15:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Medison Expands Women\u2019s Health Diagnostic Portfolio With Launch of Premium Ultrasound \u2018HERA Z10\u2019",
+      "summary": "Samsung Medison launched its premium obstetrics and gynecology (OB/GYN) ultrasound diagnostic system, the HERA Z10. Alongside the flagship HERA Z20, the new system officially compl\u2026",
+      "url": "https://news.samsung.com/global/samsung-medison-expands-womens-health-diagnostic-portfolio-with-launch-of-premium-ultrasound-hera-z10",
+      "date": "Sep 07",
+      "year": "2026",
+      "timestamp": "2026-09-07T09:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "Sep 07",
+      "year": "2026",
+      "timestamp": "2026-09-07T00:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
@@ -21,76 +51,6 @@
       "year": "2026",
       "timestamp": "2026-09-04T03:45:39+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "State of Play & State of Play Japan: all announcements, trailers",
-      "summary": "Two shows, over 30 games. Today\u2019s double-sized State of Play brings together creatives from the world over to debut new games, share deep gameplay dives and fresh insights, reveal \u2026",
-      "url": "https://blog.playstation.com/2026/09/03/state-of-play-state-of-play-japan-all-announcements-trailers/",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T15:05:55+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Fate/Extra Record launches Jan 28 2027 on PS5 & PS4",
-      "summary": "During today&#8217;s State of Play, we announced that Fate/Extra Record, developed by Type-Moon, will be releasing worldwide on PlayStation 4 and PlayStation 5 on January 28, 2027!\u2026",
-      "url": "https://blog.playstation.com/2026/09/03/fate-extra-record-launches-jan-28-2027-on-ps5-ps4/",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T14:04:38+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Final Fantasy VII Revelation launches on PS5 April 8, 2027",
-      "summary": "During today&#8217;s PlayStation State of Play broadcast, we revealed substantial new gameplay footage for Final Fantasy VII Revelation, and confirmed that the game will launch for\u2026",
-      "url": "https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T13:57:19+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Meta",
-      "title": "Launching Bill Payments in India, Enabling People to Pay Everyday Household Bills Directly on WhatsApp",
-      "summary": "We are launching Bill payments in India, making it easier for people to find, manage, and pay their everyday household and utility bills directly within WhatsApp. The post Launchin\u2026",
-      "url": "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T12:13:48+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA to Acquire Hugging Face",
-      "summary": "I\u2019m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face\u2019s platform, strengthen its infrastructure and expan\u2026",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T11:56:49+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Showcases New Washers With Flat Design at IFA 2026",
-      "summary": "Samsung Electronics today announced that it is expanding its flat design, previously available on select premium models, to its new 24-inch front-load washer lineup. The new models\u2026",
-      "url": "https://news.samsung.com/global/samsung-showcases-new-washers-with-flat-design-at-ifa-2026",
-      "date": "Sep 03",
-      "year": "2026",
-      "timestamp": "2026-09-03T08:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-      "date": "Sep 02",
-      "year": "2026",
-      "timestamp": "2026-09-02T16:00:00+00:00",
-      "category": "Consumer Software"
     }
   ]
 }
