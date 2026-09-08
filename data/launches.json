@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-07T18:05:07.718055+00:00",
+  "generated_at": "2026-09-08T17:03:15.477199+00:00",
   "count": 5,
   "launches": [
+    {
+      "company": "Samsung",
+      "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+      "summary": "Samsung Electronics today announced it has entered into a strategic partnership with Mistral AI to enhance its semiconductor engineering and manufacturing capabilities that will re\u2026",
+      "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+      "date": "Sep 09",
+      "year": "2026",
+      "timestamp": "2026-09-09T01:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Survive Together in the Strange Worlds: Once Human (F2P) Is Available Now on XBOX Series X|S With Game Pass!",
+      "summary": "We are incredibly excited to announce that Once Human, our free-to-play strange worlds survival shooter, is now officially available on XBOX Series X&#124;S! Since our launch on Au\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/07/once-human-on-game-pass/",
+      "date": "Sep 07",
+      "year": "2026",
+      "timestamp": "2026-09-07T20:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Five Reasons to Race into HOT WHEELS Infinite Rush, Out in Early Access Today",
@@ -30,26 +50,6 @@
       "date": "Sep 07",
       "year": "2026",
       "timestamp": "2026-09-07T00:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
-      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar\u2026",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
-      "date": "Sep 04",
-      "year": "2026",
-      "timestamp": "2026-09-04T16:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "PlayStation",
-      "title": "(For Southeast Asia) Until Dawn 2 launches January 28",
-      "summary": "Hi everyone! I\u2019m Stu Tilley from Firesprite, and I\u2019m thrilled to say it: Until Dawn 2&#160;launches on PS5 on January 28, 2027. Get ready, because every choice you make is going to\u2026",
-      "url": "https://blog.playstation.com/2026/09/03/20260904-ud/",
-      "date": "Sep 04",
-      "year": "2026",
-      "timestamp": "2026-09-04T03:45:39+00:00",
       "category": "Other"
     }
   ]
