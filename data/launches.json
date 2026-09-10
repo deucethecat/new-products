@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-09-09T17:01:04.599886+00:00",
-  "count": 9,
+  "generated_at": "2026-09-10T16:53:05.624887+00:00",
+  "count": 13,
   "launches": [
+    {
+      "company": "Google",
+      "title": "The Gemini app is now available for Windows",
+      "summary": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Boots on the Ground: \u2018WARDOGS\u2019 Goes All Out on GeForce NOW at Early-Access Launch",
+      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T13:00:18+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Xbox",
+      "title": "Gears of War Launches Fifth Year of\u00a0\u201cNever Fight Alone\u201d\u00a0Suicide Prevention",
+      "summary": "Today, Gears of War launches our fifth year of the Never Fight Alone campaign, an ongoing commitment to help prevent suicide, in partnership with Crisis Text Line and UK-based illu\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/10/gears-of-war-launches-fifth-year-of-never-fight-alone-suicide-prevention/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T13:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Play your way with Control Resonant\u2019s expanded Assist Mode",
+      "summary": "Hi everyone. I\u2019m Sergey, Lead Gameplay Designer on Control Resonant. We\u2019re getting very close to our September 24 launch, and the team here in Espoo (and Stockholm) is incredibly e\u2026",
+      "url": "https://blog.playstation.com/2026/09/10/play-your-way-with-control-resonants-expanded-assist-mode/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T12:00:17+00:00",
+      "category": "Designer Brands"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Muramasa: Revenant Blades launches February 4, 2027",
+      "summary": "Hello, PlayStation players! Today we revealed that Muramasa: Revenant Blades, the stunning Japanese-inspired action-RPG from Vanillaware and Marvelous, will launch on February 4, 2\u2026",
+      "url": "https://blog.playstation.com/2026/09/10/muramasa-revenant-blades-launches-february-4-2027/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T11:30:45+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "XBOX @ Tokyo Game Show 2026",
+      "summary": "As XBOX marks 25 years of play, we\u2019re pleased to commemorate over 20 years of XBOX in Japan. To celebrate the players, developers, and creators who have been part of the journey, X\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/09/xbox-tokyo-game-show-broadcast-announce-2026/",
+      "date": "Sep 09",
+      "year": "2026",
+      "timestamp": "2026-09-09T22:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Amazon",
       "title": "Amazon and Wiwynn announce expansion of advanced manufacturing facility in Texas, creating nearly 1,000 jobs and boosting the US supply chain",
@@ -51,26 +111,6 @@
       "year": "2026",
       "timestamp": "2026-09-08T18:43:44+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "Xbox",
-      "title": "Survive Together in the Strange Worlds: Once Human (F2P) Is Available Now on XBOX Series X|S With Game Pass!",
-      "summary": "We are incredibly excited to announce that Once Human, our free-to-play strange worlds survival shooter, is now officially available on XBOX Series X&#124;S! Since our launch on Au\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/07/once-human-on-game-pass/",
-      "date": "Sep 07",
-      "year": "2026",
-      "timestamp": "2026-09-07T20:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Five Reasons to Race into HOT WHEELS Infinite Rush, Out in Early Access Today",
-      "summary": "Hello everyone! Today marks the Early Access launch of HOT WHEELS Infinite Rush, a high-speed arcade racing experience set in dynamic, freely explorable environments, all recreated\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/07/hot-wheels-infinite-rush-early-access-xbox/",
-      "date": "Sep 07",
-      "year": "2026",
-      "timestamp": "2026-09-07T15:00:00+00:00",
-      "category": "Other"
     },
     {
       "company": "Samsung",
