@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-10T16:53:05.624887+00:00",
-  "count": 13,
+  "generated_at": "2026-09-11T16:53:35.598526+00:00",
+  "count": 15,
   "launches": [
+    {
+      "company": "Amazon",
+      "title": "Amazon Leo adds 6 new Arianespace launches, expanding its launch partnership",
+      "summary": "The agreement extends the largest commercial contract in Arianespace history and supports investment and innovation across Europe.",
+      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-arianespace-new-launches?utm_source=rss",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T19:26:06+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "summary": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S\u2026",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T18:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Themes Explored Through Horror in BrokenLore: Don\u2019t Lie",
+      "summary": "Hello all at XBOX! My name is Sebastiano Serafini, and I\u2019m the CEO and Founder of Serafini Productions \u2013 the team behind the BrokenLore universe. Today, we are very excited to anno\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/10/themes-explored-through-horror-in-brokenlore-dont-lie/",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T17:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Google",
       "title": "The Gemini app is now available for Windows",
@@ -51,6 +81,16 @@
       "year": "2026",
       "timestamp": "2026-09-10T11:30:45+00:00",
       "category": "Video Games"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "date": "Sep 10",
+      "year": "2026",
+      "timestamp": "2026-09-10T00:00:00+00:00",
+      "category": "AI / Models"
     },
     {
       "company": "Xbox",
@@ -111,26 +151,6 @@
       "year": "2026",
       "timestamp": "2026-09-08T18:43:44+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Medison Expands Women\u2019s Health Diagnostic Portfolio With Launch of Premium Ultrasound \u2018HERA Z10\u2019",
-      "summary": "Samsung Medison launched its premium obstetrics and gynecology (OB/GYN) ultrasound diagnostic system, the HERA Z10. Alongside the flagship HERA Z20, the new system officially compl\u2026",
-      "url": "https://news.samsung.com/global/samsung-medison-expands-womens-health-diagnostic-portfolio-with-launch-of-premium-ultrasound-hera-z10",
-      "date": "Sep 07",
-      "year": "2026",
-      "timestamp": "2026-09-07T09:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "date": "Sep 07",
-      "year": "2026",
-      "timestamp": "2026-09-07T00:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
