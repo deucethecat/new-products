@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T16:53:35.598526+00:00",
-  "count": 15,
+  "generated_at": "2026-09-12T15:58:38.098960+00:00",
+  "count": 14,
   "launches": [
     {
       "company": "Amazon",
@@ -141,16 +141,6 @@
       "year": "2026",
       "timestamp": "2026-09-09T01:00:00+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Call of Duty: Black Ops 7 and Warzone Season 06 launches The Haunting September 17",
-      "summary": "The Haunting is spreading its evil throughout Season 06 with a supernatural update launching new maps, modes, weapons, events, and more across Call of Duty: Black Ops 7 and Call of\u2026",
-      "url": "https://blog.playstation.com/2026/09/08/call-of-duty-black-ops-7-and-warzone-season-06-launches-the-haunting-september-17/",
-      "date": "Sep 08",
-      "year": "2026",
-      "timestamp": "2026-09-08T18:43:44+00:00",
-      "category": "Consumer Software"
     }
   ]
 }
