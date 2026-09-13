@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:58:38.098960+00:00",
-  "count": 14,
+  "generated_at": "2026-09-13T16:48:34.923449+00:00",
+  "count": 10,
   "launches": [
     {
       "company": "Amazon",
@@ -101,46 +101,6 @@
       "year": "2026",
       "timestamp": "2026-09-09T22:00:00+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon and Wiwynn announce expansion of advanced manufacturing facility in Texas, creating nearly 1,000 jobs and boosting the US supply chain",
-      "summary": "The facility brings production of custom hardware to the U.S. and strengthens domestic manufacturing capacity for Amazon\u2019s infrastructure.",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-wiwynn-data-center-manufacturing-jobs-texas?utm_source=rss",
-      "date": "Sep 09",
-      "year": "2026",
-      "timestamp": "2026-09-09T15:13:24+00:00",
-      "category": "Consumer Hardware"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring launches NFL Game Day Cam Cover for all 32 teams",
-      "summary": "Ring's officially licensed NFL camera cover lets fans showcase team pride on their compatible indoor Ring cameras, just in time for the 2026-2027 NFL season.",
-      "url": "https://www.aboutamazon.com/news/devices/ring-nfl-game-day-cam-cover?utm_source=rss",
-      "date": "Sep 09",
-      "year": "2026",
-      "timestamp": "2026-09-09T13:45:25+00:00",
-      "category": "Wearables"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Introducing Dead or Alive 6 Last Round\u2019s new fighter, Minato",
-      "summary": "When we launched Dead or Alive 6 Last Round back in June, we promised that the game\u2019s launch was just the beginning. Tomorrow, the next evolution of the title begins as we introduc\u2026",
-      "url": "https://blog.playstation.com/2026/09/09/introducing-dead-or-alive-6-last-rounds-new-fighter-minato/",
-      "date": "Sep 09",
-      "year": "2026",
-      "timestamp": "2026-09-09T12:00:06+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
-      "summary": "Samsung Electronics today announced it has entered into a strategic partnership with Mistral AI to enhance its semiconductor engineering and manufacturing capabilities that will re\u2026",
-      "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
-      "date": "Sep 09",
-      "year": "2026",
-      "timestamp": "2026-09-09T01:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
