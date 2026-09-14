@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-13T16:48:34.923449+00:00",
-  "count": 10,
+  "generated_at": "2026-09-14T18:20:01.055403+00:00",
+  "count": 2,
   "launches": [
+    {
+      "company": "Nvidia",
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the \u2026",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "date": "Sep 14",
+      "year": "2026",
+      "timestamp": "2026-09-14T15:00:52+00:00",
+      "category": "AI / Models"
+    },
     {
       "company": "Amazon",
       "title": "Amazon Leo adds 6 new Arianespace launches, expanding its launch partnership",
@@ -11,96 +21,6 @@
       "year": "2026",
       "timestamp": "2026-09-10T19:26:06+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-      "summary": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S\u2026",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T18:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Themes Explored Through Horror in BrokenLore: Don\u2019t Lie",
-      "summary": "Hello all at XBOX! My name is Sebastiano Serafini, and I\u2019m the CEO and Founder of Serafini Productions \u2013 the team behind the BrokenLore universe. Today, we are very excited to anno\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/10/themes-explored-through-horror-in-brokenlore-dont-lie/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T17:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Google",
-      "title": "The Gemini app is now available for Windows",
-      "summary": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T16:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Boots on the Ground: \u2018WARDOGS\u2019 Goes All Out on GeForce NOW at Early-Access Launch",
-      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T13:00:18+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Xbox",
-      "title": "Gears of War Launches Fifth Year of\u00a0\u201cNever Fight Alone\u201d\u00a0Suicide Prevention",
-      "summary": "Today, Gears of War launches our fifth year of the Never Fight Alone campaign, an ongoing commitment to help prevent suicide, in partnership with Crisis Text Line and UK-based illu\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/10/gears-of-war-launches-fifth-year-of-never-fight-alone-suicide-prevention/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T13:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Play your way with Control Resonant\u2019s expanded Assist Mode",
-      "summary": "Hi everyone. I\u2019m Sergey, Lead Gameplay Designer on Control Resonant. We\u2019re getting very close to our September 24 launch, and the team here in Espoo (and Stockholm) is incredibly e\u2026",
-      "url": "https://blog.playstation.com/2026/09/10/play-your-way-with-control-resonants-expanded-assist-mode/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T12:00:17+00:00",
-      "category": "Designer Brands"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Muramasa: Revenant Blades launches February 4, 2027",
-      "summary": "Hello, PlayStation players! Today we revealed that Muramasa: Revenant Blades, the stunning Japanese-inspired action-RPG from Vanillaware and Marvelous, will launch on February 4, 2\u2026",
-      "url": "https://blog.playstation.com/2026/09/10/muramasa-revenant-blades-launches-february-4-2027/",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T11:30:45+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing the Agents API",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "date": "Sep 10",
-      "year": "2026",
-      "timestamp": "2026-09-10T00:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Xbox",
-      "title": "XBOX @ Tokyo Game Show 2026",
-      "summary": "As XBOX marks 25 years of play, we\u2019re pleased to commemorate over 20 years of XBOX in Japan. To celebrate the players, developers, and creators who have been part of the journey, X\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/09/xbox-tokyo-game-show-broadcast-announce-2026/",
-      "date": "Sep 09",
-      "year": "2026",
-      "timestamp": "2026-09-09T22:00:00+00:00",
-      "category": "Video Games"
     }
   ]
 }
