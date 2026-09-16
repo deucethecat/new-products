@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-09-15T17:27:43.443919+00:00",
-  "count": 4,
+  "generated_at": "2026-09-16T17:26:49.495170+00:00",
+  "count": 14,
   "launches": [
+    {
+      "company": "Samsung",
+      "title": "Samsung Begins Official Rollout of One UI 9, Bringing the Latest Galaxy Experiences to More Devices",
+      "summary": "Samsung Electronics today announced the expansion of One UI 9 to more Galaxy devices, with the rollout beginning today starting with the Galaxy S26, S26+, and S26 Ultra. Following \u2026",
+      "url": "https://news.samsung.com/global/samsung-begins-official-rollout-of-one-ui-9-bringing-the-latest-galaxy-experiences-to-more-devices",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T21:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Moomintroll: Winter\u2019s Warmth launches on September 18",
+      "summary": "My name is Kristina, I work at the indie studio Hyper Games. We\u2019re based in Norway, so you can be sure we know a lot about snow, which is great with our upcoming cozy adventure gam\u2026",
+      "url": "https://blog.playstation.com/2026/09/16/moomintroll-winters-warmth-launches-on-september-18/",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T17:00:05+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more\u2026",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T15:00:48+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Meta",
+      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
+      "summary": "We\u2019re announcing new Threads tools for podcast creators and listeners, giving you more ways to have conversations around the podcasts you love. The post Threads Expands Podcast Too\u2026",
+      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T14:53:31+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI\u2026",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T13:00:33+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour, and launches grocery discount and access to new lifetime banking benefits to make everyday life more affordable for our teammates",
+      "summary": "Amazon invests more than $1.5 billion in higher pay for U.S. core operations employees, alongside new benefits designed to help our teammates\u2019 money go further.",
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-starting-pay-adds-grocery-banking-benefits?utm_source=rss",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T13:00:07+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Samsung",
+      "title": "[Interview] The People Behind the Galaxy Z Series\u2019 Camera Innovations \u2461: How Portrait Video Recreates the Look of Professional Camera Lenses",
+      "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics\u2019 Galaxy Z series introduces My FanCam \u2014 a new feature that lets users focus their edits on a person of their choice \u2014 as \u2026",
+      "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T08:00:00+00:00",
+      "category": "Consumer Hardware"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Wo Long 2: Wings of Ember launches March 4, 2027, demo live today",
+      "summary": "Today is a big day for the Wo Long team and fans alike, as we have two incredible announcements to share. First off, we can finally let everyone know that Wo Long 2: Wings of Ember\u2026",
+      "url": "https://blog.playstation.com/2026/09/15/wo-long-2-wings-of-ember-launches-march-4-2027-demo-live-today/",
+      "date": "Sep 16",
+      "year": "2026",
+      "timestamp": "2026-09-16T01:00:22+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Aniimo Launches Today \u2013 Begin Your Journey into Idyll",
+      "summary": "The moment creature-collecting fans have been waiting for is finally here. The team here at Pawprint Studio is delighted to see Aniimo officially launch today, bringing the vibrant\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/15/aniimo-launches-today-xbox/",
+      "date": "Sep 15",
+      "year": "2026",
+      "timestamp": "2026-09-15T18:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The Airbus A380",
+      "summary": "The post Microsoft Flight Simulator Announces a Marketplace Exclusive: The Airbus A380 appeared first on XBOX Wire.",
+      "url": "https://news.xbox.com/en-us/2026/09/15/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-airbus-a380/",
+      "date": "Sep 15",
+      "year": "2026",
+      "timestamp": "2026-09-15T17:43:35+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "PlayStation",
       "title": "Gear up for the launch of Marvel\u2019s Wolverine with new official merchandise",
