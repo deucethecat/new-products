@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-09-16T17:26:49.495170+00:00",
+  "generated_at": "2026-09-17T17:26:48.265346+00:00",
   "count": 14,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Five Years of Solo Development \u2013 Interview with Fountains Creator John Pywell",
+      "summary": "Fountains is a solo-developed Metroidvania inspired by Dark Souls and Hollow Knight, built over five years by creator John Pywell. With the game now launching on XBOX, we spoke wit\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/17/five-years-of-solo-development-interview/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T17:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "Gears of War: E-Day Has Gone Gold, Pre-Install Begins September 29, Full PC Specifications Revealed",
+      "summary": "Today, I&#8217;m proud to share that Gears of War: E-Day has officially gone gold, marking a major milestone for the team as we enter the final stretch toward launch. On behalf of \u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/17/gears-of-war-e-day-gone-gold-pre-install-pc-specs/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T16:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Cute Critters Come to the Cloud: \u2018Aniimo\u2019 Launches on GeForce NOW",
+      "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio\u2019s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant con\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T13:00:55+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Co-op roguelite Shape of Dreams launches today on PS5",
+      "summary": "Hi everyone, PlayStation players! I&#8217;m Eunseop Shim, developer at Lizard Smoothie. I&#8217;m thrilled to finally be sharing this news. Shape of Dreams launches today on PlaySt\u2026",
+      "url": "https://blog.playstation.com/2026/09/17/co-op-roguelite-shape-of-dreams-launches-today-on-ps5/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T12:00:15+00:00",
+      "category": "Developer Tools"
+    },
+    {
+      "company": "Xbox",
+      "title": "Action Roguelite Shape of Dreams Launches on XBOX Today With its Biggest Update Yet",
+      "summary": "Hello, Xbox! I am very happy to finally say this: Shape of Dreams is available today on XBOX Series X&#124;S, and it is day one with XBOX Game Pass. It has been one year since we f\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-shape-of-dreams/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T10:10:40+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
+      "summary": "Final Fantasy VII Revelation, launching April 8, 2027 on PlayStation 5, marks the epic final chapter in the remake trilogy following Final Fantasy VII Remake and Final Fantasy VII \u2026",
+      "url": "https://blog.playstation.com/2026/09/17/final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-where-sephiroth-awaits/",
+      "date": "Sep 17",
+      "year": "2026",
+      "timestamp": "2026-09-17T08:00:09+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Samsung",
       "title": "Samsung Begins Official Rollout of One UI 9, Bringing the Latest Galaxy Experiences to More Devices",
@@ -53,16 +113,6 @@
       "category": "Other"
     },
     {
-      "company": "Amazon",
-      "title": "Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour, and launches grocery discount and access to new lifetime banking benefits to make everyday life more affordable for our teammates",
-      "summary": "Amazon invests more than $1.5 billion in higher pay for U.S. core operations employees, alongside new benefits designed to help our teammates\u2019 money go further.",
-      "url": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-starting-pay-adds-grocery-banking-benefits?utm_source=rss",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T13:00:07+00:00",
-      "category": "Other"
-    },
-    {
       "company": "Samsung",
       "title": "[Interview] The People Behind the Galaxy Z Series\u2019 Camera Innovations \u2461: How Portrait Video Recreates the Look of Professional Camera Lenses",
       "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics\u2019 Galaxy Z series introduces My FanCam \u2014 a new feature that lets users focus their edits on a person of their choice \u2014 as \u2026",
@@ -80,56 +130,6 @@
       "date": "Sep 16",
       "year": "2026",
       "timestamp": "2026-09-16T01:00:22+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Aniimo Launches Today \u2013 Begin Your Journey into Idyll",
-      "summary": "The moment creature-collecting fans have been waiting for is finally here. The team here at Pawprint Studio is delighted to see Aniimo officially launch today, bringing the vibrant\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/15/aniimo-launches-today-xbox/",
-      "date": "Sep 15",
-      "year": "2026",
-      "timestamp": "2026-09-15T18:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The Airbus A380",
-      "summary": "The post Microsoft Flight Simulator Announces a Marketplace Exclusive: The Airbus A380 appeared first on XBOX Wire.",
-      "url": "https://news.xbox.com/en-us/2026/09/15/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-airbus-a380/",
-      "date": "Sep 15",
-      "year": "2026",
-      "timestamp": "2026-09-15T17:43:35+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Gear up for the launch of Marvel\u2019s Wolverine with new official merchandise",
-      "summary": "Marvel\u2019s Wolverine launches today on PS5, bringing players an all-new, action-packed adventure from Insomniac Games, developed in collaboration with Marvel Games. To celebrate the \u2026",
-      "url": "https://blog.playstation.com/2026/09/15/gear-up-for-the-launch-of-marvels-wolverine-with-new-official-merchandise/",
-      "date": "Sep 15",
-      "year": "2026",
-      "timestamp": "2026-09-15T17:00:02+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Xbox",
-      "title": "Coming to XBOX Game Pass: Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening, and More",
-      "summary": "Whether you\u2019re delving into the Dungeons a second time, surviving the chaos of Emergence Day with Bravo Squad, or just biking through the ultimate obstacle course, we have a bunch \u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/15/xbox-game-pass-september-2026-wave-2/",
-      "date": "Sep 15",
-      "year": "2026",
-      "timestamp": "2026-09-15T16:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Helldivers 2 Ironclad Democracy Warbond launches Sept 22",
-      "summary": "Helldivers, the quickest route from tyranny to Liberty is one straight line of righteous operational advancement. And today you have been granted clearance to forge a path clean th\u2026",
-      "url": "https://blog.playstation.com/2026/09/15/helldivers-2-ironclad-democracy-warbond-launches-sept-22/",
-      "date": "Sep 15",
-      "year": "2026",
-      "timestamp": "2026-09-15T13:00:39+00:00",
       "category": "Other"
     },
     {
