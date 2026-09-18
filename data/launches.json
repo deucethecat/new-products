@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-17T17:26:48.265346+00:00",
-  "count": 14,
+  "generated_at": "2026-09-18T16:55:13.239084+00:00",
+  "count": 13,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "How Remedies Shape Progression in Hela: Of Mice & Magic",
+      "summary": "We&#8217;re excited to share that Hela: Of Mice &#38; Magic will be coming to XBOX Game Pass on day one when it launches on December 1, 2026. To celebrate, we&#8217;re taking a clo\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/18/how-remedies-shape-progression-in-hela-of-mice-magic/",
+      "date": "Sep 18",
+      "year": "2026",
+      "timestamp": "2026-09-18T16:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Five Years of Solo Development \u2013 Interview with Fountains Creator John Pywell",
@@ -41,16 +51,6 @@
       "year": "2026",
       "timestamp": "2026-09-17T12:00:15+00:00",
       "category": "Developer Tools"
-    },
-    {
-      "company": "Xbox",
-      "title": "Action Roguelite Shape of Dreams Launches on XBOX Today With its Biggest Update Yet",
-      "summary": "Hello, Xbox! I am very happy to finally say this: Shape of Dreams is available today on XBOX Series X&#124;S, and it is day one with XBOX Game Pass. It has been one year since we f\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-shape-of-dreams/",
-      "date": "Sep 17",
-      "year": "2026",
-      "timestamp": "2026-09-17T10:10:40+00:00",
-      "category": "Video Games"
     },
     {
       "company": "PlayStation",
@@ -131,16 +131,6 @@
       "year": "2026",
       "timestamp": "2026-09-16T01:00:22+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the \u2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "date": "Sep 14",
-      "year": "2026",
-      "timestamp": "2026-09-14T15:00:52+00:00",
-      "category": "AI / Models"
     }
   ]
 }
