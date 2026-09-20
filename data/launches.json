@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T16:12:28.606756+00:00",
-  "count": 14,
+  "generated_at": "2026-09-20T16:40:27.983077+00:00",
+  "count": 9,
   "launches": [
     {
       "company": "Xbox",
@@ -91,56 +91,6 @@
       "year": "2026",
       "timestamp": "2026-09-16T17:00:05+00:00",
       "category": "Gaming"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more\u2026",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T15:00:48+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Meta",
-      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-      "summary": "We\u2019re announcing new Threads tools for podcast creators and listeners, giving you more ways to have conversations around the podcasts you love. The post Threads Expands Podcast Too\u2026",
-      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T14:53:31+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI\u2026",
-      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T13:00:33+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Samsung",
-      "title": "[Interview] The People Behind the Galaxy Z Series\u2019 Camera Innovations \u2461: How Portrait Video Recreates the Look of Professional Camera Lenses",
-      "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics\u2019 Galaxy Z series introduces My FanCam \u2014 a new feature that lets users focus their edits on a person of their choice \u2014 as \u2026",
-      "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T08:00:00+00:00",
-      "category": "Consumer Hardware"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Wo Long 2: Wings of Ember launches March 4, 2027, demo live today",
-      "summary": "Today is a big day for the Wo Long team and fans alike, as we have two incredible announcements to share. First off, we can finally let everyone know that Wo Long 2: Wings of Ember\u2026",
-      "url": "https://blog.playstation.com/2026/09/15/wo-long-2-wings-of-ember-launches-march-4-2027-demo-live-today/",
-      "date": "Sep 16",
-      "year": "2026",
-      "timestamp": "2026-09-16T01:00:22+00:00",
-      "category": "Other"
     }
   ]
 }
