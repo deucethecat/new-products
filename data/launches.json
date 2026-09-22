@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-21T18:27:12.395439+00:00",
-  "count": 7,
+  "generated_at": "2026-09-22T17:30:37.856536+00:00",
+  "count": 9,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Fading Echo makes a splash on PlayStation 5 today",
+      "summary": "Hi PlayStation players! This is Sylvain from Emeteria, a New Tales studio, the team behind Fading Echo, and we\u2019re excited to share that our fast-paced elemental action-adventure RP\u2026",
+      "url": "https://blog.playstation.com/2026/09/22/fading-echo-makes-a-splash-on-playstation-5-today/",
+      "date": "Sep 22",
+      "year": "2026",
+      "timestamp": "2026-09-22T15:00:40+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "Gears of War: E-Day x Liquid Death \u2013 Unlock a Legendary Pose and More",
+      "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We&#8217;re teaming up with Liquid Death from September 22 through November 30, bringing an in-\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/22/gears-of-war-e-day-liquid-death/",
+      "date": "Sep 22",
+      "year": "2026",
+      "timestamp": "2026-09-22T13:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Dune: Awakening Arrives on XBOX With New Ways to Play",
+      "summary": "Dune: Awakening has been out for a while on PC, but today it\u2019s finally on XBOX. This isn\u2019t just a port on a new platform. Over the past year we\u2019ve been making the game more accessi\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/22/dune-awakening-xbox-launch/",
+      "date": "Sep 22",
+      "year": "2026",
+      "timestamp": "2026-09-22T12:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Nvidia",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
@@ -60,16 +90,6 @@
       "date": "Sep 18",
       "year": "2026",
       "timestamp": "2026-09-18T22:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "How Remedies Shape Progression in Hela: Of Mice & Magic",
-      "summary": "We&#8217;re excited to share that Hela: Of Mice &#38; Magic will be coming to XBOX Game Pass on day one when it launches on December 1, 2026. To celebrate, we&#8217;re taking a clo\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/18/how-remedies-shape-progression-in-hela-of-mice-magic/",
-      "date": "Sep 18",
-      "year": "2026",
-      "timestamp": "2026-09-18T16:00:00+00:00",
       "category": "Video Games"
     }
   ]
