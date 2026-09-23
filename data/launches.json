@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-22T17:30:37.856536+00:00",
-  "count": 9,
+  "generated_at": "2026-09-23T17:41:41.254499+00:00",
+  "count": 7,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "CONTROL Resonant Is an Action Game\u2026 and an RPG, and a Superhero Game, and More Besides",
+      "summary": "There\u2019s no doubt that the headline for CONTROL Resonant belongs to the fact that it\u2019s a true-blue melee-action game now. Where the original CONTROL centred on paranatural gunplay, \u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/23/control-resonant-launch-genre-details/",
+      "date": "Sep 23",
+      "year": "2026",
+      "timestamp": "2026-09-23T13:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "date": "Sep 23",
+      "year": "2026",
+      "timestamp": "2026-09-23T00:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "PlayStation",
       "title": "Fading Echo makes a splash on PlayStation 5 today",
@@ -11,16 +31,6 @@
       "year": "2026",
       "timestamp": "2026-09-22T15:00:40+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Gears of War: E-Day x Liquid Death \u2013 Unlock a Legendary Pose and More",
-      "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We&#8217;re teaming up with Liquid Death from September 22 through November 30, bringing an in-\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/22/gears-of-war-e-day-liquid-death/",
-      "date": "Sep 22",
-      "year": "2026",
-      "timestamp": "2026-09-22T13:00:00+00:00",
-      "category": "Other"
     },
     {
       "company": "Xbox",
@@ -43,16 +53,6 @@
       "category": "Other"
     },
     {
-      "company": "Amazon",
-      "title": "Amazon invests another $1.9 billion in the Delivery Service Partner program, launching new safety initiatives and AI-powered technology",
-      "summary": "Amazon has invested $21.7 billion to support DSPs and their Delivery Associates throughout the eight-year program history.",
-      "url": "https://www.aboutamazon.com/news/transportation/amazon-dsp-program-investment-2026?utm_source=rss",
-      "date": "Sep 21",
-      "year": "2026",
-      "timestamp": "2026-09-21T13:00:22+00:00",
-      "category": "Consumer Software"
-    },
-    {
       "company": "Xbox",
       "title": "Gears of War: E-Day \u2013 Prepare for Emergence Day with Us in Los Angeles",
       "summary": "The Locust are coming to LA! Join us on September 30 for a one-night only Gears of War: E-Day takeover at Hollywood &#38; Vine. Be among the first to go hands-on with the game ahea\u2026",
@@ -71,26 +71,6 @@
       "year": "2026",
       "timestamp": "2026-09-21T12:00:18+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon invests $20 million in the Colorado River as part of a coalition to mobilize $100 million for water conservation",
-      "summary": "Amazon is launching a collaborative action initiative alongside other companies to fund water projects across the basin.",
-      "url": "https://www.aboutamazon.com/news/sustainability/amazon-investment-colorado-river-water-conservation?utm_source=rss",
-      "date": "Sep 21",
-      "year": "2026",
-      "timestamp": "2026-09-21T09:55:01+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Welcome to The World\u2019s Game: EA Sports FC 27 Early Access Trial with EA Play Available Today",
-      "summary": "The EA Sports FC 27 10-hour EA Play trial is now available on XBOX Series X&#124;S, XBOX One, and XBOX on PC for Game Pass Ultimate and PC Game Pass members. If members decide to b\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/18/ea-sports-fc-27-early-access-trial-with-ea-play-available-today/",
-      "date": "Sep 18",
-      "year": "2026",
-      "timestamp": "2026-09-18T22:00:00+00:00",
-      "category": "Video Games"
     }
   ]
 }
