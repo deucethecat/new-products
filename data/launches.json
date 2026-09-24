@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-23T17:41:41.254499+00:00",
-  "count": 7,
+  "generated_at": "2026-09-24T17:43:42.195116+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "Nvidia",
+      "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
+      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW a\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "date": "Sep 24",
+      "year": "2026",
+      "timestamp": "2026-09-24T13:00:36+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon announces new tools and services to help sellers go global from day one",
+      "summary": "Only 30% of Amazon sellers list in more than one country. New capabilities spanning compliance, logistics, and the selling experience are designed to change that.",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools?utm_source=rss",
+      "date": "Sep 24",
+      "year": "2026",
+      "timestamp": "2026-09-24T13:00:05+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Meet Key Players Shaping Makoto Daito\u2019s Journey in STRANGER THAN HEAVEN",
+      "summary": "SEGA is thrilled to pull back the curtain on some of the pivotal figures in Makoto Daito&#8217;s 50-year saga in STRANGER THAN HEAVEN, launching January 15, 2027. From 1915 to 1965\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/23/stranger-than-heaven-full-cast-character-reveal-xbox-sega/",
+      "date": "Sep 24",
+      "year": "2026",
+      "timestamp": "2026-09-24T02:01:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Xbox",
       "title": "CONTROL Resonant Is an Action Game\u2026 and an RPG, and a Superhero Game, and More Besides",
