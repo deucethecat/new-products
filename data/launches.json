@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-24T17:43:42.195116+00:00",
-  "count": 10,
+  "generated_at": "2026-09-25T17:45:11.870107+00:00",
+  "count": 8,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Gears of War: E-Day x Liquid Death \u2013 Unlock a Legendary Pose and More",
+      "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We&#8217;re teaming up with Liquid Death from September 25 through November 30, bringing an in-\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death/",
+      "date": "Sep 25",
+      "year": "2026",
+      "timestamp": "2026-09-25T16:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Nvidia",
       "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
@@ -63,16 +73,6 @@
       "category": "Video Games"
     },
     {
-      "company": "Xbox",
-      "title": "Dune: Awakening Arrives on XBOX With New Ways to Play",
-      "summary": "Dune: Awakening has been out for a while on PC, but today it\u2019s finally on XBOX. This isn\u2019t just a port on a new platform. Over the past year we\u2019ve been making the game more accessi\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/22/dune-awakening-xbox-launch/",
-      "date": "Sep 22",
-      "year": "2026",
-      "timestamp": "2026-09-22T12:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
       "company": "Nvidia",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builde\u2026",
@@ -80,26 +80,6 @@
       "date": "Sep 21",
       "year": "2026",
       "timestamp": "2026-09-21T18:00:07+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Gears of War: E-Day \u2013 Prepare for Emergence Day with Us in Los Angeles",
-      "summary": "The Locust are coming to LA! Join us on September 30 for a one-night only Gears of War: E-Day takeover at Hollywood &#38; Vine. Be among the first to go hands-on with the game ahea\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/21/gears-of-war-e-day-emergence-la-event/",
-      "date": "Sep 21",
-      "year": "2026",
-      "timestamp": "2026-09-21T13:00:00+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Meta",
-      "title": "Announcing Petal, a First-of-its-Kind Transoceanic Subsea Cable",
-      "summary": "We\u2019re announcing Petal, the first subsea cable to deliver petabit capacity across oceans, doubling the capacity of today\u2019s most advanced transoceanic cables. The post Announcing Pe\u2026",
-      "url": "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/",
-      "date": "Sep 21",
-      "year": "2026",
-      "timestamp": "2026-09-21T12:00:18+00:00",
       "category": "Other"
     }
   ]
