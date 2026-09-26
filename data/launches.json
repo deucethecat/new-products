@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T17:45:11.870107+00:00",
-  "count": 8,
+  "generated_at": "2026-09-26T16:52:04.373343+00:00",
+  "count": 5,
   "launches": [
     {
       "company": "Xbox",
@@ -43,16 +43,6 @@
       "category": "Other"
     },
     {
-      "company": "Xbox",
-      "title": "CONTROL Resonant Is an Action Game\u2026 and an RPG, and a Superhero Game, and More Besides",
-      "summary": "There\u2019s no doubt that the headline for CONTROL Resonant belongs to the fact that it\u2019s a true-blue melee-action game now. Where the original CONTROL centred on paranatural gunplay, \u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/23/control-resonant-launch-genre-details/",
-      "date": "Sep 23",
-      "year": "2026",
-      "timestamp": "2026-09-23T13:00:00+00:00",
-      "category": "Gaming"
-    },
-    {
       "company": "OpenAI",
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
       "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
@@ -60,26 +50,6 @@
       "date": "Sep 23",
       "year": "2026",
       "timestamp": "2026-09-23T00:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Fading Echo makes a splash on PlayStation 5 today",
-      "summary": "Hi PlayStation players! This is Sylvain from Emeteria, a New Tales studio, the team behind Fading Echo, and we\u2019re excited to share that our fast-paced elemental action-adventure RP\u2026",
-      "url": "https://blog.playstation.com/2026/09/22/fading-echo-makes-a-splash-on-playstation-5-today/",
-      "date": "Sep 22",
-      "year": "2026",
-      "timestamp": "2026-09-22T15:00:40+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builde\u2026",
-      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "date": "Sep 21",
-      "year": "2026",
-      "timestamp": "2026-09-21T18:00:07+00:00",
       "category": "Other"
     }
   ]
