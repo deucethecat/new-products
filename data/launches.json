@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T16:52:04.373343+00:00",
-  "count": 5,
+  "generated_at": "2026-09-27T17:27:36.150122+00:00",
+  "count": 3,
   "launches": [
     {
       "company": "Xbox",
@@ -30,26 +30,6 @@
       "date": "Sep 24",
       "year": "2026",
       "timestamp": "2026-09-24T13:00:05+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Meet Key Players Shaping Makoto Daito\u2019s Journey in STRANGER THAN HEAVEN",
-      "summary": "SEGA is thrilled to pull back the curtain on some of the pivotal figures in Makoto Daito&#8217;s 50-year saga in STRANGER THAN HEAVEN, launching January 15, 2027. From 1915 to 1965\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/23/stranger-than-heaven-full-cast-character-reveal-xbox-sega/",
-      "date": "Sep 24",
-      "year": "2026",
-      "timestamp": "2026-09-24T02:01:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "date": "Sep 23",
-      "year": "2026",
-      "timestamp": "2026-09-23T00:00:00+00:00",
       "category": "Other"
     }
   ]
