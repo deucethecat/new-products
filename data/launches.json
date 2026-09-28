@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-27T17:27:36.150122+00:00",
-  "count": 3,
+  "generated_at": "2026-09-28T19:58:45.109805+00:00",
+  "count": 6,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Gears of War: E-Day and XBOX Unleash \u201cThe Emergence Pie\u201d with Prince St. Pizza",
+      "summary": "XBOX and Prince St. Pizza announced today a special collaboration celebrating the launch of Gears of War: E-Day. Available at Prince St. Pizza locations across the U.S. and Toronto\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/28/gears-of-war-e-day-prince-st-pizza/",
+      "date": "Sep 28",
+      "year": "2026",
+      "timestamp": "2026-09-28T16:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Suri: The Seventh Note launches Oct 30 on PS5",
+      "summary": "After four years of development, we\u2019re ecstatic to reveal that our debut game, Suri: The Seventh Note will finally be available from October 30, 2026 on PS5. Every environment, cha\u2026",
+      "url": "https://blog.playstation.com/2026/09/28/suri-the-seventh-note-launches-oct-30-on-ps5/",
+      "date": "Sep 28",
+      "year": "2026",
+      "timestamp": "2026-09-28T13:06:18+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Xbox",
+      "title": "How Minecraft Dungeons II\u2019s Interconnected World Makes Every Journey an Adventure",
+      "summary": "Minecraft Dungeons II is paving the way for a bold new chapter for Minecraft as a whole. Not only is it giving us a new and robust ARPG that levels up the original dungeon crawler,\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
+      "date": "Sep 28",
+      "year": "2026",
+      "timestamp": "2026-09-28T13:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Meta",
+      "title": "Launching Meta Enterprise Platform",
+      "summary": "Today we are starting Meta Enterprise Platform to help businesses use AI to grow, and Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer The post Launching Me\u2026",
+      "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+      "date": "Sep 28",
+      "year": "2026",
+      "timestamp": "2026-09-28T12:36:14+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "PlayStation",
+      "title": "God of War Laufey pre-orders available starting September 29, editions detailed",
+      "summary": "God of War Laufey is coming to PlayStation 5 consoles on February 16, 2027. We\u2019re excited to announce that tomorrow, September 29 at 10:00am local time pre-orders officially go liv\u2026",
+      "url": "https://blog.playstation.com/2026/09/28/god-of-war-laufey-pre-orders-available-starting-september-29-editions-detailed/",
+      "date": "Sep 28",
+      "year": "2026",
+      "timestamp": "2026-09-28T12:00:14+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Gears of War: E-Day x Liquid Death \u2013 Unlock a Legendary Pose and More",
@@ -10,26 +60,6 @@
       "date": "Sep 25",
       "year": "2026",
       "timestamp": "2026-09-25T16:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
-      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW a\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-      "date": "Sep 24",
-      "year": "2026",
-      "timestamp": "2026-09-24T13:00:36+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon announces new tools and services to help sellers go global from day one",
-      "summary": "Only 30% of Amazon sellers list in more than one country. New capabilities spanning compliance, logistics, and the selling experience are designed to change that.",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools?utm_source=rss",
-      "date": "Sep 24",
-      "year": "2026",
-      "timestamp": "2026-09-24T13:00:05+00:00",
       "category": "Other"
     }
   ]
