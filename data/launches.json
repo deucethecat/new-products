@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-28T19:58:45.109805+00:00",
-  "count": 6,
+  "generated_at": "2026-09-29T18:26:46.467224+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "NBA The Run Kicks off its First Season with a Major Update",
+      "summary": "Today, Wave One \u2013 2000s Legends arrives as NBA The Run\u2019s first seasonal update, the biggest one yet since launch in June. The update is free for all players and adds five historic \u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/29/nba-the-run-kicks-off-its-first-season/",
+      "date": "Sep 29",
+      "year": "2026",
+      "timestamp": "2026-09-29T18:00:00+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Google",
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "summary": "Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "date": "Sep 29",
+      "year": "2026",
+      "timestamp": "2026-09-29T14:15:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Meta",
+      "title": "The Future Is for Everyone: Muse for Small Business",
+      "summary": "We\u2019re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals. The post The Future Is for Everyone: Muse for\u2026",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+      "date": "Sep 29",
+      "year": "2026",
+      "timestamp": "2026-09-29T09:30:04+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
+      "summary": "As scams grow more sophisticated and difficult to detect, keeping people safe takes more than technology alone &#8211; it also requires education. Today, we&#8217;re sharing progre\u2026",
+      "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
+      "date": "Sep 29",
+      "year": "2026",
+      "timestamp": "2026-09-29T09:18:58+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "(For SEA) God of War Laufey pre-orders available starting September 29, editions detailed",
+      "summary": "God of War Laufey is coming to PlayStation 5 consoles on February 16, 2027. We\u2019re excited to announce that pre-orders are now live on PlayStation Store and at all participating ret\u2026",
+      "url": "https://blog.playstation.com/2026/09/28/20260929-gow/",
+      "date": "Sep 29",
+      "year": "2026",
+      "timestamp": "2026-09-29T02:05:06+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Gears of War: E-Day and XBOX Unleash \u201cThe Emergence Pie\u201d with Prince St. Pizza",
@@ -51,16 +101,6 @@
       "year": "2026",
       "timestamp": "2026-09-28T12:00:14+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Gears of War: E-Day x Liquid Death \u2013 Unlock a Legendary Pose and More",
-      "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We&#8217;re teaming up with Liquid Death from September 25 through November 30, bringing an in-\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death/",
-      "date": "Sep 25",
-      "year": "2026",
-      "timestamp": "2026-09-25T16:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
