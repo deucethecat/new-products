@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-29T18:26:46.467224+00:00",
-  "count": 10,
+  "generated_at": "2026-09-30T18:15:38.056591+00:00",
+  "count": 12,
   "launches": [
     {
       "company": "Xbox",
+      "title": "Microsoft Jewel Comes to Mobile with XBOX Achievements and Game Pass Benefits",
+      "summary": "For the first time in seven years, Microsoft Casual Games has launched a new mobile app \u2013 Microsoft Jewel is available now as a standalone app for iOS and Android. It becomes the f\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/30/microsoft-jewel-game-pass-achievements-xbox/",
+      "date": "Sep 30",
+      "year": "2026",
+      "timestamp": "2026-09-30T16:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "End of Abyss: Explore and Fight Through the Abyss\u2019 Horror",
+      "summary": "From our small studio Section 9 Interactive, founded by three former Tarsier Studios members, comes the sci-fi action adventure game End of Abyss, launching October 1 for XBOX Seri\u2026",
+      "url": "https://news.xbox.com/en-us/2026/09/30/end-of-abyss-xbox-launch/",
+      "date": "Sep 30",
+      "year": "2026",
+      "timestamp": "2026-09-30T15:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Amazon",
+      "title": "Fire TV launches all-new, faster 4K stick and new remote design",
+      "summary": "The new Fire TV Stick 4K gets customers to content fast, and the redesigned Fire TV Remote features more tactile controls.",
+      "url": "https://www.aboutamazon.com/news/devices/fire-tv-stick-4k-new-remote?utm_source=rss",
+      "date": "Sep 30",
+      "year": "2026",
+      "timestamp": "2026-09-30T13:00:17+00:00",
+      "category": "Consumer Hardware"
+    },
+    {
+      "company": "Xbox",
       "title": "NBA The Run Kicks off its First Season with a Major Update",
-      "summary": "Today, Wave One \u2013 2000s Legends arrives as NBA The Run\u2019s first seasonal update, the biggest one yet since launch in June. The update is free for all players and adds five historic \u2026",
+      "summary": "Today,Wave One \u2013 2000s Legends arrives as NBA The Run\u2019s first seasonal update, the biggest one yet since launch in June. The update is free for all players and adds five historic N\u2026",
       "url": "https://news.xbox.com/en-us/2026/09/29/nba-the-run-kicks-off-its-first-season/",
       "date": "Sep 29",
       "year": "2026",
@@ -71,16 +101,6 @@
       "year": "2026",
       "timestamp": "2026-09-28T13:06:18+00:00",
       "category": "Gaming"
-    },
-    {
-      "company": "Xbox",
-      "title": "How Minecraft Dungeons II\u2019s Interconnected World Makes Every Journey an Adventure",
-      "summary": "Minecraft Dungeons II is paving the way for a bold new chapter for Minecraft as a whole. Not only is it giving us a new and robust ARPG that levels up the original dungeon crawler,\u2026",
-      "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
-      "date": "Sep 28",
-      "year": "2026",
-      "timestamp": "2026-09-28T13:00:00+00:00",
-      "category": "Other"
     },
     {
       "company": "Meta",
