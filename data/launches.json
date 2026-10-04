@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T16:57:18.511787+00:00",
-  "count": 9,
+  "generated_at": "2026-10-04T17:16:28.644017+00:00",
+  "count": 8,
   "launches": [
     {
       "company": "PlayStation",
@@ -81,16 +81,6 @@
       "year": "2026",
       "timestamp": "2026-09-30T20:00:00+00:00",
       "category": "AI / Models"
-    },
-    {
-      "company": "Amazon",
-      "title": "Fire TV launches all-new, faster 4K stick and new remote design",
-      "summary": "The new Fire TV Stick 4K gets customers to content fast, and the redesigned Fire TV Remote features more tactile controls.",
-      "url": "https://www.aboutamazon.com/news/devices/fire-tv-stick-4k-new-remote?utm_source=rss",
-      "date": "Sep 30",
-      "year": "2026",
-      "timestamp": "2026-09-30T13:00:17+00:00",
-      "category": "Consumer Hardware"
     }
   ]
 }
