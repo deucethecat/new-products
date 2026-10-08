@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-07T19:11:38.123424+00:00",
-  "count": 6,
+  "generated_at": "2026-10-08T19:08:00.675171+00:00",
+  "count": 9,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Critical Role joins Rockbeasts, launching January 2027.",
+      "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it&#8217;s the biggest game, or the safest bet. Quite the opposite. It&#8217;s not \u2026",
+      "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
+      "date": "Oct 08",
+      "year": "2026",
+      "timestamp": "2026-10-08T17:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Rally Up: \u2018Gears of War: E-Day\u2019 Launches on GeForce NOW",
+      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago\u2019s first fight against the Locust Horde to the cloud with GeForce RTX-powered p\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "date": "Oct 08",
+      "year": "2026",
+      "timestamp": "2026-10-08T13:00:46+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon announces an all-new family of tablets designed just for kids",
+      "summary": "New Amazon Kids Tablets available in two models for younger and older kids",
+      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kids-tablets?utm_source=rss",
+      "date": "Oct 08",
+      "year": "2026",
+      "timestamp": "2026-10-08T12:55:18+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+      "summary": "Samsung Electronics today announced its earnings guidance for the third quarter of 2026. \u00b7 Consolidated Sales: Approximately 195 trillion Korean won \u00b7 Consolidated Operating Profit\u2026",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+      "date": "Oct 08",
+      "year": "2026",
+      "timestamp": "2026-10-08T07:49:06+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
+      "summary": "The hit RPG Monster Hunter Stories 3: Twisted Reflection, currently available on XBOX Series X&#124;S, will launch on XBOX on PC on November 18, 2026, with Xbox Play Anywhere suppo\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+      "date": "Oct 08",
+      "year": "2026",
+      "timestamp": "2026-10-08T04:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Google",
       "title": "We're making it easier to identify AI-generated content globally.",
@@ -23,16 +73,6 @@
       "category": "Wearables"
     },
     {
-      "company": "Xbox",
-      "title": "Gears of War: E-Day \u2013\u00a0Surviving the First Night of Emergence",
-      "summary": "Today marks the worldwide launch of Gears of War: E-Day, now available on XBOX Series X&#124;S, XBOX on PC, Game Pass and Steam. One of XBOX&#8217;s most iconic sagas returns to wh\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-global-launch-tips-guide/",
-      "date": "Oct 06",
-      "year": "2026",
-      "timestamp": "2026-10-06T15:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
       "company": "PlayStation",
       "title": "Warhammer Survivors launches November 10, new characters revealed",
       "summary": "Today, we&#8217;re excited to announce that Warhammer Survivors launches on PS5 November 10. To mark the occasion we\u2019re also revealing two characters in our latest trailer. Eagle-e\u2026",
@@ -41,16 +81,6 @@
       "year": "2026",
       "timestamp": "2026-10-06T14:00:51+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "Prime Video and the Television Academy announce 6-year deal to exclusively stream the Emmy Awards globally",
-      "summary": "Beginning in 2027, the Emmy Awards will stream live and free on Prime Video in more than 240 countries and territories\u2014the first time the ceremony has had a single, dedicated home.",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-emmy-awards-deal?utm_source=rss",
-      "date": "Oct 06",
-      "year": "2026",
-      "timestamp": "2026-10-06T12:58:12+00:00",
-      "category": "Consumer Hardware"
     },
     {
       "company": "PlayStation",
