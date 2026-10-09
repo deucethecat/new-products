@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T19:08:00.675171+00:00",
-  "count": 9,
+  "generated_at": "2026-10-09T18:38:29.730705+00:00",
+  "count": 7,
   "launches": [
     {
       "company": "PlayStation",
-      "title": "Critical Role joins Rockbeasts, launching January 2027.",
+      "title": "Critical Role joins Rockbeasts, launching January 2027",
       "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it&#8217;s the biggest game, or the safest bet. Quite the opposite. It&#8217;s not \u2026",
       "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
       "date": "Oct 08",
@@ -63,16 +63,6 @@
       "category": "Consumer Software"
     },
     {
-      "company": "Xbox",
-      "title": "Watch the Gears of War: E-Day Official Launch Trailer",
-      "summary": "The post Watch the Gears of War: E-Day Official Launch Trailer appeared first on XBOX Wire.",
-      "url": "https://www.youtube.com/watch?v=3onc3ownB14#new_tab",
-      "date": "Oct 06",
-      "year": "2026",
-      "timestamp": "2026-10-06T15:27:41+00:00",
-      "category": "Wearables"
-    },
-    {
       "company": "PlayStation",
       "title": "Warhammer Survivors launches November 10, new characters revealed",
       "summary": "Today, we&#8217;re excited to announce that Warhammer Survivors launches on PS5 November 10. To mark the occasion we\u2019re also revealing two characters in our latest trailer. Eagle-e\u2026",
@@ -80,16 +70,6 @@
       "date": "Oct 06",
       "year": "2026",
       "timestamp": "2026-10-06T14:00:51+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Everything you need to know about DMZ mode in Call of Duty: Modern Warfare 4",
-      "summary": "DMZ is Call of Duty\u2019s definitive extraction shooter experience, launching alongside Campaign and Multiplayer when Call of Duty: Modern Warfare 4 releases on October 23. To help pre\u2026",
-      "url": "https://blog.playstation.com/2026/10/05/everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warfare-4/",
-      "date": "Oct 05",
-      "year": "2026",
-      "timestamp": "2026-10-05T17:15:00+00:00",
       "category": "Other"
     }
   ]
