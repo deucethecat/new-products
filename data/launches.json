@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T18:38:29.730705+00:00",
-  "count": 7,
+  "generated_at": "2026-10-10T17:37:57.063948+00:00",
+  "count": 6,
   "launches": [
     {
       "company": "PlayStation",
@@ -61,16 +61,6 @@
       "year": "2026",
       "timestamp": "2026-10-07T14:00:00+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Warhammer Survivors launches November 10, new characters revealed",
-      "summary": "Today, we&#8217;re excited to announce that Warhammer Survivors launches on PS5 November 10. To mark the occasion we\u2019re also revealing two characters in our latest trailer. Eagle-e\u2026",
-      "url": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
-      "date": "Oct 06",
-      "year": "2026",
-      "timestamp": "2026-10-06T14:00:51+00:00",
-      "category": "Other"
     }
   ]
 }
