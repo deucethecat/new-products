@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T17:37:57.063948+00:00",
-  "count": 6,
+  "generated_at": "2026-10-11T17:53:35.792306+00:00",
+  "count": 5,
   "launches": [
     {
       "company": "PlayStation",
@@ -51,16 +51,6 @@
       "year": "2026",
       "timestamp": "2026-10-08T04:00:00+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Google",
-      "title": "We're making it easier to identify AI-generated content globally.",
-      "summary": "We\u2019re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-      "date": "Oct 07",
-      "year": "2026",
-      "timestamp": "2026-10-07T14:00:00+00:00",
-      "category": "Consumer Software"
     }
   ]
 }
