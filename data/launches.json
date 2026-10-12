@@ -1,56 +1,16 @@
 {
-  "generated_at": "2026-10-11T17:53:35.792306+00:00",
-  "count": 5,
+  "generated_at": "2026-10-12T21:32:34.461969+00:00",
+  "count": 1,
   "launches": [
     {
-      "company": "PlayStation",
-      "title": "Critical Role joins Rockbeasts, launching January 2027",
-      "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it&#8217;s the biggest game, or the safest bet. Quite the opposite. It&#8217;s not \u2026",
-      "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
-      "date": "Oct 08",
+      "company": "Google",
+      "title": "We\u2019re partnering with Flo Health to elevate women\u2019s health",
+      "summary": "Google Health announces new partnership and deeper commitment to women\u2019s health with Flo Health.",
+      "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+      "date": "Oct 12",
       "year": "2026",
-      "timestamp": "2026-10-08T17:00:00+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Rally Up: \u2018Gears of War: E-Day\u2019 Launches on GeForce NOW",
-      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago\u2019s first fight against the Locust Horde to the cloud with GeForce RTX-powered p\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-      "date": "Oct 08",
-      "year": "2026",
-      "timestamp": "2026-10-08T13:00:46+00:00",
+      "timestamp": "2026-10-12T13:00:00+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon announces an all-new family of tablets designed just for kids",
-      "summary": "New Amazon Kids Tablets available in two models for younger and older kids",
-      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kids-tablets?utm_source=rss",
-      "date": "Oct 08",
-      "year": "2026",
-      "timestamp": "2026-10-08T12:55:18+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
-      "summary": "Samsung Electronics today announced its earnings guidance for the third quarter of 2026. \u00b7 Consolidated Sales: Approximately 195 trillion Korean won \u00b7 Consolidated Operating Profit\u2026",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
-      "date": "Oct 08",
-      "year": "2026",
-      "timestamp": "2026-10-08T07:49:06+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
-      "summary": "The hit RPG Monster Hunter Stories 3: Twisted Reflection, currently available on XBOX Series X&#124;S, will launch on XBOX on PC on November 18, 2026, with Xbox Play Anywhere suppo\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
-      "date": "Oct 08",
-      "year": "2026",
-      "timestamp": "2026-10-08T04:00:00+00:00",
-      "category": "Video Games"
     }
   ]
 }
