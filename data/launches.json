@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-12T21:32:34.461969+00:00",
-  "count": 1,
+  "generated_at": "2026-10-13T19:44:07.341296+00:00",
+  "count": 6,
   "launches": [
+    {
+      "company": "Google",
+      "title": "A new app experience is coming to cars with Google built-in",
+      "summary": "Discover apps and download them faster with upgrades coming to Google Play \u2014 plus, a new parked-to-drive feature and more.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+      "date": "Oct 13",
+      "year": "2026",
+      "timestamp": "2026-10-13T17:00:00+00:00",
+      "category": "Cars"
+    },
+    {
+      "company": "Google",
+      "title": "Gemini 4 Argon is now available for developers.",
+      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi\u2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "date": "Oct 13",
+      "year": "2026",
+      "timestamp": "2026-10-13T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Meta",
+      "title": "Announcing the Official Selection for the Edits Film Festival",
+      "summary": "Announcing the Official Selection for the Edits Film Festival happening in Mumbai this week. The post Announcing the Official Selection for the Edits Film Festival appeared first o\u2026",
+      "url": "https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival/",
+      "date": "Oct 13",
+      "year": "2026",
+      "timestamp": "2026-10-13T14:53:15+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
+      "summary": "Picture this: A chilly autumn breeze ripples through the forest as a battalion of Automatons amble towards an outpost. They move together like cogs in a larger wheel, chanting in t\u2026",
+      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
+      "date": "Oct 13",
+      "year": "2026",
+      "timestamp": "2026-10-13T13:00:36+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA Announces New Investments in France\u2019s Startups",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country\u2019s\u2026",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "date": "Oct 13",
+      "year": "2026",
+      "timestamp": "2026-10-13T05:00:31+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "We\u2019re partnering with Flo Health to elevate women\u2019s health",
