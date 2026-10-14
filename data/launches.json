@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-13T19:44:07.341296+00:00",
-  "count": 6,
+  "generated_at": "2026-10-14T17:46:05.676554+00:00",
+  "count": 9,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Castlevania: Belmont\u2019s Curse Is a Worthy Heir to its Legacy",
+      "summary": "Just like that pesky Count Dracula, the Castlevania series refuses to stay dead. 40 years after legendary vampire hunter Simon Belmont\u2019s debut, and 18 (!) after the last original 2\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy/",
+      "date": "Oct 14",
+      "year": "2026",
+      "timestamp": "2026-10-14T15:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Gran Turismo 7\u2019s Spec IV (Part 1) launches today and a first look at DualSense wireless controller \u2013 Gran Turismo Limited Edition",
+      "summary": "Hey everyone, we&#8217;re excited to share news on Gran Turismo with you today. For starters, we have full details on today&#8217;s Part 1 of the Gran Turismo 7 Spec IV update. Plu\u2026",
+      "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
+      "date": "Oct 14",
+      "year": "2026",
+      "timestamp": "2026-10-14T13:00:48+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Google",
+      "title": "Check out this year\u2019s buzziest Halloween trends.",
+      "summary": "Ready or not, spooky season is here. To help you prepare, we\u2019re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H\u2026",
+      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+      "date": "Oct 14",
+      "year": "2026",
+      "timestamp": "2026-10-14T12:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Enabling an AI-first European economy",
+      "summary": "Announcing Google\u2019s European Economic Impact Report",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
+      "date": "Oct 14",
+      "year": "2026",
+      "timestamp": "2026-10-14T07:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "A new app experience is coming to cars with Google built-in",
@@ -50,16 +90,6 @@
       "date": "Oct 13",
       "year": "2026",
       "timestamp": "2026-10-13T05:00:31+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "We\u2019re partnering with Flo Health to elevate women\u2019s health",
-      "summary": "Google Health announces new partnership and deeper commitment to women\u2019s health with Flo Health.",
-      "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
-      "date": "Oct 12",
-      "year": "2026",
-      "timestamp": "2026-10-12T13:00:00+00:00",
       "category": "Other"
     }
   ]
