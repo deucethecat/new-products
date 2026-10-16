@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-15T17:34:59.819521+00:00",
-  "count": 15,
+  "generated_at": "2026-10-16T17:09:23.291933+00:00",
+  "count": 16,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
+      "summary": "As I\u2019m typing this, we\u2019re in the final hellish days before the October 16 launch of TENEBRIS SOMNIA \u2013 the retro survival horror game with live-action cutscenes \u2013 coming at you from\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror/",
+      "date": "Oct 16",
+      "year": "2026",
+      "timestamp": "2026-10-16T16:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Xbox",
+      "title": "Modern Warfare 4 Launches October 23 as a Standalone Release",
+      "summary": "The post Modern Warfare 4 Launches October 23 as a Standalone Release appeared first on XBOX Wire.",
+      "url": "https://news.xbox.com/en-us/2026/10/15/modern-warfare-4-launches-october-23-as-a-standalone-release/",
+      "date": "Oct 15",
+      "year": "2026",
+      "timestamp": "2026-10-15T18:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Nvidia",
       "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
@@ -70,16 +90,6 @@
       "date": "Oct 14",
       "year": "2026",
       "timestamp": "2026-10-14T16:00:57+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Castlevania: Belmont\u2019s Curse Is a Worthy Heir to its Legacy",
-      "summary": "Just like that pesky Count Dracula, the Castlevania series refuses to stay dead. 40 years after legendary vampire hunter Simon Belmont\u2019s debut, and 18 (!) after the last original 2\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy/",
-      "date": "Oct 14",
-      "year": "2026",
-      "timestamp": "2026-10-14T15:00:00+00:00",
       "category": "Other"
     },
     {
