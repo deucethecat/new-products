@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T17:09:23.291933+00:00",
-  "count": 16,
+  "generated_at": "2026-10-17T16:07:28.067604+00:00",
+  "count": 13,
   "launches": [
     {
       "company": "Xbox",
@@ -130,36 +130,6 @@
       "date": "Oct 14",
       "year": "2026",
       "timestamp": "2026-10-14T06:04:15+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Meta",
-      "title": "Announcing the Official Selection for the Edits Film Festival",
-      "summary": "Announcing the Official Selection for the Edits Film Festival happening in Mumbai this week. The post Announcing the Official Selection for the Edits Film Festival appeared first o\u2026",
-      "url": "https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival/",
-      "date": "Oct 13",
-      "year": "2026",
-      "timestamp": "2026-10-13T14:53:15+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
-      "summary": "Picture this: A chilly autumn breeze ripples through the forest as a battalion of Automatons amble towards an outpost. They move together like cogs in a larger wheel, chanting in t\u2026",
-      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
-      "date": "Oct 13",
-      "year": "2026",
-      "timestamp": "2026-10-13T13:00:36+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Announces New Investments in France\u2019s Startups",
-      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country\u2019s\u2026",
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "date": "Oct 13",
-      "year": "2026",
-      "timestamp": "2026-10-13T05:00:31+00:00",
       "category": "Other"
     }
   ]
