@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-19T18:58:57.250966+00:00",
-  "count": 3,
+  "generated_at": "2026-10-20T17:45:28.628369+00:00",
+  "count": 5,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Call of Duty: Modern Warfare 4 \u2013 How to Get Started as an Operator in DMZ",
+      "summary": "Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4\u2019s new DMZ mode is here! Following the release of Campa\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
+      "date": "Oct 20",
+      "year": "2026",
+      "timestamp": "2026-10-20T17:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "New Gemini tools for small business owners",
+      "summary": "We\u2019re announcing new tools for Gemini \u2014 including a dedicated business landing page \u2014 to help small business owners around the world.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "date": "Oct 20",
+      "year": "2026",
+      "timestamp": "2026-10-20T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon announces plan to invest \u20ac16 billion in Germany in 2027",
+      "summary": "Since 2010, Amazon has invested over \u20ac100 billion in Germany, underscoring the country as one of the most important to Amazon worldwide.",
+      "url": "https://www.aboutamazon.com/company-news/amazon-germany-investment?utm_source=rss",
+      "date": "Oct 20",
+      "year": "2026",
+      "timestamp": "2026-10-20T09:04:23+00:00",
+      "category": "Other"
+    },
     {
       "company": "Xbox",
       "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
@@ -21,16 +51,6 @@
       "year": "2026",
       "timestamp": "2026-10-17T21:00:13+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "Xbox",
-      "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
-      "summary": "As I\u2019m typing this, we\u2019re in the final hellish days before the October 16 launch of TENEBRIS SOMNIA \u2013 the retro survival horror game with live-action cutscenes \u2013 coming at you from\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror/",
-      "date": "Oct 16",
-      "year": "2026",
-      "timestamp": "2026-10-16T16:00:00+00:00",
-      "category": "Gaming"
     }
   ]
 }
