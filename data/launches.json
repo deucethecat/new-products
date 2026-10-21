@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-20T17:45:28.628369+00:00",
-  "count": 5,
+  "generated_at": "2026-10-21T17:53:28.968182+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Once Human\u2019s Isles of Abyss expansion launches on PS5 tomorrow",
+      "summary": "Hey everyone, we have huge news to share with you today. Once Human\u2019s largest free expansion yet, Isles of Abyss, is officially launching tomorrow, October 22 \uff08October 21) on PlayS\u2026",
+      "url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
+      "date": "Oct 21",
+      "year": "2026",
+      "timestamp": "2026-10-21T17:00:37+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe \u2014 bringing an integrated platform for training, inference and large-sca\u2026",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "date": "Oct 21",
+      "year": "2026",
+      "timestamp": "2026-10-21T10:45:17+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Europe\u2019s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe\u2019s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as \u2026",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "date": "Oct 21",
+      "year": "2026",
+      "timestamp": "2026-10-21T10:30:40+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Samsung",
+      "title": "\u201cDiscover New Ways to Live Smarter\u201d: Samsung Electronics Launches Samsung Week 2026 in 63 Countries",
+      "summary": "To mark its founding, Samsung Electronics is holding its global Samsung Week 2026 promotion from October 12 to November 1 in 63 countries. Samsung Week is Samsung\u2019s largest annual \u2026",
+      "url": "https://news.samsung.com/global/discover-new-ways-to-live-smarter-samsung-electronics-launches-samsung-week-2026-in-63-countries",
+      "date": "Oct 21",
+      "year": "2026",
+      "timestamp": "2026-10-21T08:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Ready for Launch: Modern Warfare 4 Progression and Prestige",
+      "summary": "The post Ready for Launch: Modern Warfare 4 Progression and Prestige appeared first on XBOX Wire.",
+      "url": "https://news.xbox.com/en-us/2026/10/20/ready-for-launch-modern-warfare-4-progression-and-prestige/",
+      "date": "Oct 20",
+      "year": "2026",
+      "timestamp": "2026-10-20T18:21:52+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements",
+      "summary": "We&#8217;ve just wrapped up another fantastic ID@XBOX and IGN Showcase, bringing the latest news and updates on many brilliant indie titles heading to XBOX&#160;\u2013 from world premie\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
+      "date": "Oct 20",
+      "year": "2026",
+      "timestamp": "2026-10-20T17:45:48+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Call of Duty: Modern Warfare 4 \u2013 How to Get Started as an Operator in DMZ",
@@ -31,16 +91,6 @@
       "year": "2026",
       "timestamp": "2026-10-20T09:04:23+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
-      "summary": "The post Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features appeared first on XBOX Wire.",
-      "url": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/",
-      "date": "Oct 19",
-      "year": "2026",
-      "timestamp": "2026-10-19T18:00:00+00:00",
-      "category": "Video Games"
     },
     {
       "company": "Nvidia",
