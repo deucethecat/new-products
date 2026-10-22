@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-21T17:53:28.968182+00:00",
-  "count": 10,
+  "generated_at": "2026-10-22T17:50:26.344234+00:00",
+  "count": 9,
   "launches": [
+    {
+      "company": "Nvidia",
+      "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
+      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "date": "Oct 22",
+      "year": "2026",
+      "timestamp": "2026-10-22T13:00:20+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Cloud Playtime Now Available to Test with XBOX Insiders",
+      "summary": "Starting today, XBOX Insiders* can try a new way to stream games by purchasing cloud playtime without a Game Pass subscription. This preview gives XBOX Insiders who do not have an \u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+      "date": "Oct 21",
+      "year": "2026",
+      "timestamp": "2026-10-21T18:00:03+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "PlayStation",
       "title": "Once Human\u2019s Isles of Abyss expansion launches on PS5 tomorrow",
@@ -53,26 +73,6 @@
       "category": "Video Games"
     },
     {
-      "company": "Xbox",
-      "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements",
-      "summary": "We&#8217;ve just wrapped up another fantastic ID@XBOX and IGN Showcase, bringing the latest news and updates on many brilliant indie titles heading to XBOX&#160;\u2013 from world premie\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
-      "date": "Oct 20",
-      "year": "2026",
-      "timestamp": "2026-10-20T17:45:48+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Call of Duty: Modern Warfare 4 \u2013 How to Get Started as an Operator in DMZ",
-      "summary": "Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4\u2019s new DMZ mode is here! Following the release of Campa\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
-      "date": "Oct 20",
-      "year": "2026",
-      "timestamp": "2026-10-20T17:00:00+00:00",
-      "category": "Other"
-    },
-    {
       "company": "Google",
       "title": "New Gemini tools for small business owners",
       "summary": "We\u2019re announcing new tools for Gemini \u2014 including a dedicated business landing page \u2014 to help small business owners around the world.",
@@ -91,16 +91,6 @@
       "year": "2026",
       "timestamp": "2026-10-20T09:04:23+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Star\u2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "date": "Oct 17",
-      "year": "2026",
-      "timestamp": "2026-10-17T21:00:13+00:00",
-      "category": "Consumer Software"
     }
   ]
 }
