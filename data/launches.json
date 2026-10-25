@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T16:25:35.374800+00:00",
-  "count": 7,
+  "generated_at": "2026-10-25T16:57:22.011135+00:00",
+  "count": 4,
   "launches": [
     {
       "company": "Xbox",
@@ -40,36 +40,6 @@
       "date": "Oct 21",
       "year": "2026",
       "timestamp": "2026-10-21T17:00:37+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-      "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe \u2014 bringing an integrated platform for training, inference and large-sca\u2026",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-      "date": "Oct 21",
-      "year": "2026",
-      "timestamp": "2026-10-21T10:45:17+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Europe\u2019s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe\u2019s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as \u2026",
-      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "date": "Oct 21",
-      "year": "2026",
-      "timestamp": "2026-10-21T10:30:40+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Samsung",
-      "title": "\u201cDiscover New Ways to Live Smarter\u201d: Samsung Electronics Launches Samsung Week 2026 in 63 Countries",
-      "summary": "To mark its founding, Samsung Electronics is holding its global Samsung Week 2026 promotion from October 12 to November 1 in 63 countries. Samsung Week is Samsung\u2019s largest annual \u2026",
-      "url": "https://news.samsung.com/global/discover-new-ways-to-live-smarter-samsung-electronics-launches-samsung-week-2026-in-63-countries",
-      "date": "Oct 21",
-      "year": "2026",
-      "timestamp": "2026-10-21T08:00:00+00:00",
       "category": "Other"
     }
   ]
