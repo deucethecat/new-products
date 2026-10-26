@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-25T16:57:22.011135+00:00",
+  "generated_at": "2026-10-26T19:00:40.319790+00:00",
   "count": 4,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Scramble Knights Online: Changing Genres to Save a Game",
+      "summary": "It\u2019s launch day for Scramble Knights Online, an action RPG \u201cMMO-Lite\u201d from our team here at Funktronic Labs. We built a nostalgic kingdom that captures the feeling of adventuring w\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
+      "date": "Oct 26",
+      "year": "2026",
+      "timestamp": "2026-10-26T16:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Amazon",
+      "title": "Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs",
+      "summary": "Amazon will announce financial results for its third quarter on October 29. Here's a look at what the company has been up to.",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview?utm_source=rss",
+      "date": "Oct 26",
+      "year": "2026",
+      "timestamp": "2026-10-26T13:00:18+00:00",
+      "category": "Other"
+    },
     {
       "company": "Xbox",
       "title": "Watch the Official Grand Theft Auto VI Launch Trailer \u2013 Explore Leonida Before the Game Arrives November 19",
@@ -20,26 +40,6 @@
       "date": "Oct 23",
       "year": "2026",
       "timestamp": "2026-10-23T17:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
-      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "date": "Oct 22",
-      "year": "2026",
-      "timestamp": "2026-10-22T13:00:20+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Once Human\u2019s Isles of Abyss expansion launches on PS5 tomorrow",
-      "summary": "Hey everyone, we have huge news to share with you today. Once Human\u2019s largest free expansion yet, Isles of Abyss, is officially launching tomorrow, October 22 \uff08October 21) on PlayS\u2026",
-      "url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
-      "date": "Oct 21",
-      "year": "2026",
-      "timestamp": "2026-10-21T17:00:37+00:00",
       "category": "Other"
     }
   ]
