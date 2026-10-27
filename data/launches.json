@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-26T19:00:40.319790+00:00",
-  "count": 4,
+  "generated_at": "2026-10-27T18:32:06.807751+00:00",
+  "count": 6,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
+      "summary": "We\u2019ve just launched&#160;Dune: Awakening&#160;on PlayStation 5, but we\u2019re only getting started. We\u2019re excited to bring two more of our open-world survival adventures to PlayStation\u2026",
+      "url": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
+      "date": "Oct 27",
+      "year": "2026",
+      "timestamp": "2026-10-27T16:00:43+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Google",
+      "title": "We\u2019re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "summary": "Today, we\u2019re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m\u2026",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+      "date": "Oct 27",
+      "year": "2026",
+      "timestamp": "2026-10-27T16:00:00+00:00",
+      "category": "Audio"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Where Winds Meet\u2019s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
+      "summary": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game\u2019s first global annive\u2026",
+      "url": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
+      "date": "Oct 27",
+      "year": "2026",
+      "timestamp": "2026-10-27T15:01:34+00:00",
+      "category": "Gaming"
+    },
     {
       "company": "Xbox",
       "title": "Scramble Knights Online: Changing Genres to Save a Game",
@@ -31,16 +61,6 @@
       "year": "2026",
       "timestamp": "2026-10-23T21:50:48+00:00",
       "category": "Wearables"
-    },
-    {
-      "company": "Xbox",
-      "title": "Call of Duty: Modern Warfare 4 \u2013 Kill Block is Must-Play Multiplayer at Launch",
-      "summary": "Hidden inside the West Bridge Advanced Military Training Facility is a complex combat environment where shifting, modular battlegrounds challenge even the most elite Operators, wit\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
-      "date": "Oct 23",
-      "year": "2026",
-      "timestamp": "2026-10-23T17:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
