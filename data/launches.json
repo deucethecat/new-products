@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-27T18:32:06.807751+00:00",
-  "count": 6,
+  "generated_at": "2026-10-28T18:38:37.049608+00:00",
+  "count": 9,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
+      "summary": "Get ready for Season 1, with new maps, modes, events and rewards across Multiplayer and DMZ. Explore the unforgiving corridors of X01, wield new weapons and attachments, acquire ne\u2026",
+      "url": "https://blog.playstation.com/2026/10/28/modern-warfare-4-season-1-everything-you-need-to-know-for-november-6-launch/",
+      "date": "Oct 28",
+      "year": "2026",
+      "timestamp": "2026-10-28T17:15:17+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Build and manage Connected Apps in one place",
+      "summary": "We\u2019re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "date": "Oct 28",
+      "year": "2026",
+      "timestamp": "2026-10-28T17:00:00+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Xbox",
+      "title": "Never Played Football Manager Before? Here are Some First-Timer Tips Before Football Manager 27 Arrives",
+      "summary": "The World Cup brought a lot of new eyes to football (soccer, if you must), which in turn is sure to bring a lot of new players to Football Manager 27. But this simulation series is\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/28/football-manager-27-interview-tips-tricks-xbox-launch/",
+      "date": "Oct 28",
+      "year": "2026",
+      "timestamp": "2026-10-28T17:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Micros\u2026",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "date": "Oct 28",
+      "year": "2026",
+      "timestamp": "2026-10-28T15:00:46+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Meta",
+      "title": "Muse Is Now Available in Singapore: The World\u2019s First Personal AI Agent Built for Everyone",
+      "summary": "Today we\u2019re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World\u2019s First Personal AI Agent Built for Everyone appeared first on Met\u2026",
+      "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+      "date": "Oct 28",
+      "year": "2026",
+      "timestamp": "2026-10-28T00:00:03+00:00",
+      "category": "AI / Models"
+    },
     {
       "company": "PlayStation",
       "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
@@ -41,26 +91,6 @@
       "year": "2026",
       "timestamp": "2026-10-26T16:00:00+00:00",
       "category": "Gaming"
-    },
-    {
-      "company": "Amazon",
-      "title": "Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs",
-      "summary": "Amazon will announce financial results for its third quarter on October 29. Here's a look at what the company has been up to.",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview?utm_source=rss",
-      "date": "Oct 26",
-      "year": "2026",
-      "timestamp": "2026-10-26T13:00:18+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Watch the Official Grand Theft Auto VI Launch Trailer \u2013 Explore Leonida Before the Game Arrives November 19",
-      "summary": "The post Watch the Official Grand Theft Auto VI Launch Trailer \u2013 Explore Leonida Before the Game Arrives November 19 appeared first on XBOX Wire.",
-      "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/",
-      "date": "Oct 23",
-      "year": "2026",
-      "timestamp": "2026-10-23T21:50:48+00:00",
-      "category": "Wearables"
     }
   ]
 }
