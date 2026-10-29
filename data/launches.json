@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-28T18:38:37.049608+00:00",
-  "count": 9,
+  "generated_at": "2026-10-29T18:46:46.476004+00:00",
+  "count": 11,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
+      "summary": "High above the clouds, the gods of Olympus watch in silence \u2013 for once, even they are powerless against what is coming. The fate of the world now rests in mortal hands. Your hands.\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order/",
+      "date": "Oct 29",
+      "year": "2026",
+      "timestamp": "2026-10-29T16:00:00+00:00",
+      "category": "Wearables"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringi\u2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "date": "Oct 29",
+      "year": "2026",
+      "timestamp": "2026-10-29T13:00:16+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+      "summary": "Samsung Electronics today reported financial results for the third quarter ended Sept. 30, 2026. The Company posted KRW 195.3 trillion in consolidated revenue, another all-time qua\u2026",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+      "date": "Oct 29",
+      "year": "2026",
+      "timestamp": "2026-10-29T10:10:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "PlayStation",
       "title": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
@@ -80,16 +110,6 @@
       "date": "Oct 27",
       "year": "2026",
       "timestamp": "2026-10-27T15:01:34+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Xbox",
-      "title": "Scramble Knights Online: Changing Genres to Save a Game",
-      "summary": "It\u2019s launch day for Scramble Knights Online, an action RPG \u201cMMO-Lite\u201d from our team here at Funktronic Labs. We built a nostalgic kingdom that captures the feeling of adventuring w\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
-      "date": "Oct 26",
-      "year": "2026",
-      "timestamp": "2026-10-26T16:00:00+00:00",
       "category": "Gaming"
     }
   ]
