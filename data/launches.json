@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-29T18:46:46.476004+00:00",
-  "count": 11,
+  "generated_at": "2026-10-30T18:24:41.120379+00:00",
+  "count": 12,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Queen\u2019s Domain Releases Today! Some Beginner\u2019s Pro Tips for Success",
+      "summary": "Queen\u2019s Domain is a retro-fantasy action RPG that strands you alone on the monster-infested isle of Neasied, available today on XBOX Series X&#124;S. You\u2019ll need wits as well as st\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/30/queens-domain-launch-tips/",
+      "date": "Oct 30",
+      "year": "2026",
+      "timestamp": "2026-10-30T16:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "The Journey of Crimson Desert Continues with Charting the Unknown",
+      "summary": "Since its launch in March, the world of Crimson Desert \u2014 where Kliff and the Greymanes fight to rebuild what they lost \u2014 has grown with each update. Alongside improvements, the gam\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
+      "date": "Oct 29",
+      "year": "2026",
+      "timestamp": "2026-10-29T22:00:00+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon.com announces third quarter results",
+      "summary": "",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
+      "date": "Oct 29",
+      "year": "2026",
+      "timestamp": "2026-10-29T20:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Xbox",
       "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
@@ -53,16 +83,6 @@
       "category": "Consumer Software"
     },
     {
-      "company": "Xbox",
-      "title": "Never Played Football Manager Before? Here are Some First-Timer Tips Before Football Manager 27 Arrives",
-      "summary": "The World Cup brought a lot of new eyes to football (soccer, if you must), which in turn is sure to bring a lot of new players to Football Manager 27. But this simulation series is\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/28/football-manager-27-interview-tips-tricks-xbox-launch/",
-      "date": "Oct 28",
-      "year": "2026",
-      "timestamp": "2026-10-28T17:00:00+00:00",
-      "category": "Other"
-    },
-    {
       "company": "Nvidia",
       "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
       "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Micros\u2026",
@@ -101,16 +121,6 @@
       "year": "2026",
       "timestamp": "2026-10-27T16:00:00+00:00",
       "category": "Audio"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Where Winds Meet\u2019s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
-      "summary": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game\u2019s first global annive\u2026",
-      "url": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
-      "date": "Oct 27",
-      "year": "2026",
-      "timestamp": "2026-10-27T15:01:34+00:00",
-      "category": "Gaming"
     }
   ]
 }
