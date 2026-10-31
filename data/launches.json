@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-30T18:24:41.120379+00:00",
-  "count": 12,
+  "generated_at": "2026-10-31T17:29:34.300500+00:00",
+  "count": 11,
   "launches": [
+    {
+      "company": "Xbox",
+      "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
+      "summary": "The Avatar State Patch is available today for Avatar Legends: The Fighting Game on XBOX Series X&#124;S, and it\u2019s the biggest update the game has seen. It brings a fresh new look f\u2026",
+      "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
+      "date": "Oct 30",
+      "year": "2026",
+      "timestamp": "2026-10-30T18:00:00+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Queen\u2019s Domain Releases Today! Some Beginner\u2019s Pro Tips for Success",
@@ -101,26 +111,6 @@
       "year": "2026",
       "timestamp": "2026-10-28T00:00:03+00:00",
       "category": "AI / Models"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
-      "summary": "We\u2019ve just launched&#160;Dune: Awakening&#160;on PlayStation 5, but we\u2019re only getting started. We\u2019re excited to bring two more of our open-world survival adventures to PlayStation\u2026",
-      "url": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
-      "date": "Oct 27",
-      "year": "2026",
-      "timestamp": "2026-10-27T16:00:43+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Google",
-      "title": "We\u2019re announcing Genie 4, our new world model for real-time interactive simulation.",
-      "summary": "Today, we\u2019re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m\u2026",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
-      "date": "Oct 27",
-      "year": "2026",
-      "timestamp": "2026-10-27T16:00:00+00:00",
-      "category": "Audio"
     }
   ]
 }
