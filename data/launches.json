@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T17:29:34.300500+00:00",
-  "count": 11,
+  "generated_at": "2026-11-01T18:15:05.863656+00:00",
+  "count": 7,
   "launches": [
     {
       "company": "Xbox",
@@ -71,46 +71,6 @@
       "year": "2026",
       "timestamp": "2026-10-29T10:10:00+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
-      "summary": "Get ready for Season 1, with new maps, modes, events and rewards across Multiplayer and DMZ. Explore the unforgiving corridors of X01, wield new weapons and attachments, acquire ne\u2026",
-      "url": "https://blog.playstation.com/2026/10/28/modern-warfare-4-season-1-everything-you-need-to-know-for-november-6-launch/",
-      "date": "Oct 28",
-      "year": "2026",
-      "timestamp": "2026-10-28T17:15:17+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Build and manage Connected Apps in one place",
-      "summary": "We\u2019re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
-      "date": "Oct 28",
-      "year": "2026",
-      "timestamp": "2026-10-28T17:00:00+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Micros\u2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "date": "Oct 28",
-      "year": "2026",
-      "timestamp": "2026-10-28T15:00:46+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Meta",
-      "title": "Muse Is Now Available in Singapore: The World\u2019s First Personal AI Agent Built for Everyone",
-      "summary": "Today we\u2019re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World\u2019s First Personal AI Agent Built for Everyone appeared first on Met\u2026",
-      "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
-      "date": "Oct 28",
-      "year": "2026",
-      "timestamp": "2026-10-28T00:00:03+00:00",
-      "category": "AI / Models"
     }
   ]
 }
