@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-01T18:15:05.863656+00:00",
-  "count": 7,
+  "generated_at": "2026-11-02T22:06:50.362599+00:00",
+  "count": 3,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "\u201890s style sci-fi horror Derelikt launches Nov 13 on PS5",
+      "summary": "Back in 1999, gaming was good. Games that were released late in the original PlayStation generation squeezed the last drop of performance out of the hardware, resulting in impressi\u2026",
+      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+      "date": "Nov 02",
+      "year": "2026",
+      "timestamp": "2026-11-02T15:00:26+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Xbox",
       "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
@@ -21,56 +31,6 @@
       "year": "2026",
       "timestamp": "2026-10-30T16:00:00+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "The Journey of Crimson Desert Continues with Charting the Unknown",
-      "summary": "Since its launch in March, the world of Crimson Desert \u2014 where Kliff and the Greymanes fight to rebuild what they lost \u2014 has grown with each update. Alongside improvements, the gam\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
-      "date": "Oct 29",
-      "year": "2026",
-      "timestamp": "2026-10-29T22:00:00+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon.com announces third quarter results",
-      "summary": "",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
-      "date": "Oct 29",
-      "year": "2026",
-      "timestamp": "2026-10-29T20:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
-      "summary": "High above the clouds, the gods of Olympus watch in silence \u2013 for once, even they are powerless against what is coming. The fate of the world now rests in mortal hands. Your hands.\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order/",
-      "date": "Oct 29",
-      "year": "2026",
-      "timestamp": "2026-10-29T16:00:00+00:00",
-      "category": "Wearables"
-    },
-    {
-      "company": "Nvidia",
-      "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
-      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringi\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "date": "Oct 29",
-      "year": "2026",
-      "timestamp": "2026-10-29T13:00:16+00:00",
-      "category": "Gaming"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Electronics Announces Third Quarter 2026 Results",
-      "summary": "Samsung Electronics today reported financial results for the third quarter ended Sept. 30, 2026. The Company posted KRW 195.3 trillion in consolidated revenue, another all-time qua\u2026",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
-      "date": "Oct 29",
-      "year": "2026",
-      "timestamp": "2026-10-29T10:10:00+00:00",
-      "category": "Other"
     }
   ]
 }
