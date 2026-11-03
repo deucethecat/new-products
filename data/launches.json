@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-02T22:06:50.362599+00:00",
-  "count": 3,
+  "generated_at": "2026-11-03T19:56:44.991730+00:00",
+  "count": 5,
   "launches": [
+    {
+      "company": "Samsung",
+      "title": "Upgraded Sleep Apnea Feature Now Available on Galaxy Ring Following Regulatory Approvals From US FDA and Korea MFDS",
+      "summary": "Samsung Electronics today announced that its updated Sleep Apnea feature is now available on Galaxy Watch and Ring. Following United States Food and Drug Administration (FDA) clear\u2026",
+      "url": "https://news.samsung.com/global/upgraded-sleep-apnea-feature-now-available-on-galaxy-ring-following-regulatory-approvals-from-us-fda-and-korea-mfds",
+      "date": "Nov 03",
+      "year": "2026",
+      "timestamp": "2026-11-03T21:00:00+00:00",
+      "category": "Wearables"
+    },
+    {
+      "company": "Xbox",
+      "title": "Coming to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and More",
+      "summary": "November is officially here, and apparently your backlog is already getting longer. Between cracking puzzles, defending kingdoms, and braving battles, your gaming schedule is about\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/",
+      "date": "Nov 03",
+      "year": "2026",
+      "timestamp": "2026-11-03T18:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Grand Theft Auto VI pre-download begins November 10",
+      "summary": "Grand Theft Auto VI launches November 19 on PlayStation 5, with pre-download available starting November 10. Whether you&#8217;re returning to the series or jumping in for the firs\u2026",
+      "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
+      "date": "Nov 03",
+      "year": "2026",
+      "timestamp": "2026-11-03T15:28:13+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
+      "summary": "Sonic Racing: CrossWorlds Year Two is officially launching later today, with more racers, more vehicles, and more courses joining the ever-growing universe of Sonic Racing: CrossWo\u2026",
+      "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
+      "date": "Nov 03",
+      "year": "2026",
+      "timestamp": "2026-11-03T14:00:04+00:00",
+      "category": "Other"
+    },
     {
       "company": "PlayStation",
       "title": "\u201890s style sci-fi horror Derelikt launches Nov 13 on PS5",
@@ -10,26 +50,6 @@
       "date": "Nov 02",
       "year": "2026",
       "timestamp": "2026-11-02T15:00:26+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
-      "summary": "The Avatar State Patch is available today for Avatar Legends: The Fighting Game on XBOX Series X&#124;S, and it\u2019s the biggest update the game has seen. It brings a fresh new look f\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
-      "date": "Oct 30",
-      "year": "2026",
-      "timestamp": "2026-10-30T18:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Queen\u2019s Domain Releases Today! Some Beginner\u2019s Pro Tips for Success",
-      "summary": "Queen\u2019s Domain is a retro-fantasy action RPG that strands you alone on the monster-infested isle of Neasied, available today on XBOX Series X&#124;S. You\u2019ll need wits as well as st\u2026",
-      "url": "https://news.xbox.com/en-us/2026/10/30/queens-domain-launch-tips/",
-      "date": "Oct 30",
-      "year": "2026",
-      "timestamp": "2026-10-30T16:00:00+00:00",
       "category": "Video Games"
     }
   ]
