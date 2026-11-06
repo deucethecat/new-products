@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:27:28.624258+00:00",
-  "count": 10,
+  "generated_at": "2026-11-06T19:50:09.674781+00:00",
+  "count": 9,
   "launches": [
     {
       "company": "Xbox",
@@ -91,16 +91,6 @@
       "year": "2026",
       "timestamp": "2026-11-03T14:00:04+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "\u201890s style sci-fi horror Derelikt launches Nov 13 on PS5",
-      "summary": "Back in 1999, gaming was good. Games that were released late in the original PlayStation generation squeezed the last drop of performance out of the hardware, resulting in impressi\u2026",
-      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
-      "date": "Nov 02",
-      "year": "2026",
-      "timestamp": "2026-11-02T15:00:26+00:00",
-      "category": "Video Games"
     }
   ]
 }
