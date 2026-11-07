@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T19:50:09.674781+00:00",
-  "count": 9,
+  "generated_at": "2026-11-07T17:56:03.278356+00:00",
+  "count": 7,
   "launches": [
     {
       "company": "Xbox",
@@ -71,26 +71,6 @@
       "year": "2026",
       "timestamp": "2026-11-03T21:00:00+00:00",
       "category": "Wearables"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Grand Theft Auto VI pre-download begins November 10",
-      "summary": "Grand Theft Auto VI launches November 19 on PlayStation 5, with pre-download available starting November 10. Whether you&#8217;re returning to the series or jumping in for the firs\u2026",
-      "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
-      "date": "Nov 03",
-      "year": "2026",
-      "timestamp": "2026-11-03T15:28:13+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
-      "summary": "Sonic Racing: CrossWorlds Year Two is officially launching later today, with more racers, more vehicles, and more courses joining the ever-growing universe of Sonic Racing: CrossWo\u2026",
-      "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
-      "date": "Nov 03",
-      "year": "2026",
-      "timestamp": "2026-11-03T14:00:04+00:00",
-      "category": "Other"
     }
   ]
 }
