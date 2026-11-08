@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T17:56:03.278356+00:00",
-  "count": 7,
+  "generated_at": "2026-11-08T18:12:13.785178+00:00",
+  "count": 4,
   "launches": [
     {
       "company": "Xbox",
@@ -41,36 +41,6 @@
       "year": "2026",
       "timestamp": "2026-11-05T10:50:06+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Bringing Jin Sakai back to life for Ghost of Y\u014dtei: Most Wanted",
-      "summary": "It\u2019s been amazing to watch the response to Ghost of Y\u014dtei Complete Edition, from photo mode shots to Echoes of Sekigahara* reactions to flawless fights against Nobushige and beyond\u2026",
-      "url": "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted/",
-      "date": "Nov 04",
-      "year": "2026",
-      "timestamp": "2026-11-04T13:00:36+00:00",
-      "category": "Wearables"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "date": "Nov 04",
-      "year": "2026",
-      "timestamp": "2026-11-04T07:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Samsung",
-      "title": "Upgraded Sleep Apnea Feature Now Available on Galaxy Ring Following Regulatory Approvals From US FDA and Korea MFDS",
-      "summary": "Samsung Electronics today announced that its updated Sleep Apnea feature is now available on Galaxy Watch and Ring. Following United States Food and Drug Administration (FDA) clear\u2026",
-      "url": "https://news.samsung.com/global/upgraded-sleep-apnea-feature-now-available-on-galaxy-ring-following-regulatory-approvals-from-us-fda-and-korea-mfds",
-      "date": "Nov 03",
-      "year": "2026",
-      "timestamp": "2026-11-03T21:00:00+00:00",
-      "category": "Wearables"
     }
   ]
 }
