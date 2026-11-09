@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-11-08T18:12:13.785178+00:00",
+  "generated_at": "2026-11-09T22:51:17.225198+00:00",
   "count": 4,
   "launches": [
     {
-      "company": "Xbox",
-      "title": "A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud",
-      "summary": "Starting today, XBOX Insiders can try an updated XBOX PC app that launches up to 60% faster and makes it easier to find games, connect with friends, and play. We\u2019re also bringing t\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
-      "date": "Nov 05",
+      "company": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "date": "Nov 09",
       "year": "2026",
-      "timestamp": "2026-11-05T17:00:04+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Xbox",
-      "title": "Hope in the City: Why This Detective Uses a Sketchbook Instead of a Badge",
-      "summary": "What if your greatest tool for solving the mystery of your parents&#8217; disappearance wasn&#8217;t a badge, but a sketchbook? Launching November 11 on XBOX Series X&#124;S, XBOX \u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/05/hope-in-the-city-detective-sketchbook/",
-      "date": "Nov 05",
-      "year": "2026",
-      "timestamp": "2026-11-05T15:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Nvidia",
-      "title": "\u2018Hogwarts Legacy\u2019 Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard En\u2026",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "date": "Nov 05",
-      "year": "2026",
-      "timestamp": "2026-11-05T14:00:34+00:00",
-      "category": "Other"
+      "timestamp": "2026-11-09T19:00:00+00:00",
+      "category": "AI / Models"
     },
     {
       "company": "Amazon",
-      "title": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
-      "summary": "Prime members nationwide can now order from Uber Eats directly on Amazon, potentially saving more than $175 a year*.",
-      "url": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery?utm_source=rss",
-      "date": "Nov 05",
+      "title": "Amazon Leo to launch 40 satellites on its first Vulcan mission",
+      "summary": "Leo Vulcan 1 (LV-01) will carry the largest batch of Leo satellites to orbit yet and kick off a 38-launch partnership with ULA.",
+      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch?utm_source=rss",
+      "date": "Nov 09",
       "year": "2026",
-      "timestamp": "2026-11-05T10:50:06+00:00",
+      "timestamp": "2026-11-09T17:22:29+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "FragPunk Reveals Farlands: New Delivery PvPvE\u00a0Adventure Now Available in Early Access",
+      "summary": "FragPunk has launched its biggest new chapter yet with Farlands, a permanent, multiplayer delivery-driven PvPvE adventure where dozens of players share a persistent world, now avai\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access/",
+      "date": "Nov 09",
+      "year": "2026",
+      "timestamp": "2026-11-09T16:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to\u2026",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "date": "Nov 09",
+      "year": "2026",
+      "timestamp": "2026-11-09T08:00:53+00:00",
       "category": "Other"
     }
   ]
