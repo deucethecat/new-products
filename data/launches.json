@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-09T22:51:17.225198+00:00",
-  "count": 4,
+  "generated_at": "2026-11-10T20:11:44.790616+00:00",
+  "count": 12,
   "launches": [
+    {
+      "company": "Google",
+      "title": "Introducing Google Fi\u2019s new super network",
+      "summary": "Google Fi Wireless is launching a new super network, combining two 5G networks with millions of Wi-Fi networks in one phone plan.",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T17:20:00+00:00",
+      "category": "Mobile Hardware"
+    },
+    {
+      "company": "Google",
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai\u2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "summary": "We\u2019re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "Today, we\u2019re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T16:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "summary": "Grand Theft Auto VI, the most pre-ordered title of all time on the Microsoft Store, launches November 19. Considering the unprecedented demand, we encourage everyone to begin pre-l\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T15:45:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+      "summary": "Grand Theft Auto VI is now the most pre-ordered game in the history of PlayStation Store. Given this unprecedented demand, we&#8217;ve joined with Rockstar Games to allow players t\u2026",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T15:41:17+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
+      "summary": "Marathon&#8216;s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we\u2019ve got first d\u2026",
+      "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T14:00:13+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring announces Ring Robotics, ushering in a new era of security",
+      "summary": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.",
+      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot?utm_source=rss",
+      "date": "Nov 10",
+      "year": "2026",
+      "timestamp": "2026-11-10T13:26:02+00:00",
+      "category": "Wearables"
+    },
     {
       "company": "OpenAI",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -35,7 +115,7 @@
     {
       "company": "Nvidia",
       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to\u2026",
+      "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with\u2026",
       "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "date": "Nov 09",
       "year": "2026",
