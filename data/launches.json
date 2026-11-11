@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-10T20:11:44.790616+00:00",
-  "count": 12,
+  "generated_at": "2026-11-11T19:59:20.742867+00:00",
+  "count": 15,
   "launches": [
+    {
+      "company": "Amazon",
+      "title": "How we built the agents that built AWS Emulator",
+      "summary": "Thousands of autonomous AI agents wrote every line of code in AWS Emulator, a new local emulator for AWS now available for download.",
+      "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator?utm_source=rss",
+      "date": "Nov 11",
+      "year": "2026",
+      "timestamp": "2026-11-11T17:25:18+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Gemini is now available on Apple CarPlay.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "date": "Nov 11",
+      "year": "2026",
+      "timestamp": "2026-11-11T17:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "How Luma Island Was Built For Everyone on XBOX Series X|S",
+      "summary": "Hello, XBOX community! We\u2019re Feel Free Games, an independent videogame development team based in the Netherlands. We\u2019d like to introduce you to Luma Island, our debut title, launch\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
+      "date": "Nov 11",
+      "year": "2026",
+      "timestamp": "2026-11-11T16:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Amazon",
+      "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion",
+      "summary": "The Region\u2014now operational for select customers ahead of general availability\u2014will support thousands of jobs in Chile.",
+      "url": "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch?utm_source=rss",
+      "date": "Nov 11",
+      "year": "2026",
+      "timestamp": "2026-11-11T15:37:45+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "Introducing Google Fi\u2019s new super network",
@@ -24,23 +64,13 @@
     },
     {
       "company": "Google",
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "summary": "We\u2019re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "title": "Introducing 3 new domains: .eat, .fly, and .here",
+      "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
       "date": "Nov 10",
       "year": "2026",
       "timestamp": "2026-11-10T16:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Google",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Today, we\u2019re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T16:00:00+00:00",
-      "category": "AI / Models"
+      "category": "Other"
     },
     {
       "company": "Xbox",
