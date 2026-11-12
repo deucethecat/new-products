@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-11T19:59:20.742867+00:00",
-  "count": 15,
+  "generated_at": "2026-11-12T20:37:52.188621+00:00",
+  "count": 14,
   "launches": [
+    {
+      "company": "Samsung",
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "summary": "Samsung Electronics today announced the upcoming launch of the full lineup of intelligent eyewear, delivering a smarter way to see the world through intuitive, hands-free AI assist\u2026",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T23:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "summary": "Build faster with Gemini 4 Hydrogen, Google\u2019s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T18:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "summary": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T17:00:00+00:00",
+      "category": "Home & Appliances"
+    },
+    {
+      "company": "Google",
+      "title": "See our intelligent eyewear lineup and pre-order your pair",
+      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T14:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Amazon",
       "title": "How we built the agents that built AWS Emulator",
@@ -41,46 +81,6 @@
       "year": "2026",
       "timestamp": "2026-11-11T15:37:45+00:00",
       "category": "Other"
-    },
-    {
-      "company": "Google",
-      "title": "Introducing Google Fi\u2019s new super network",
-      "summary": "Google Fi Wireless is launching a new super network, combining two 5G networks with millions of Wi-Fi networks in one phone plan.",
-      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T17:20:00+00:00",
-      "category": "Mobile Hardware"
-    },
-    {
-      "company": "Google",
-      "title": "Gemini 4 Carbon is now available for developers.",
-      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai\u2026",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T16:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Google",
-      "title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
-      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T16:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-      "summary": "Grand Theft Auto VI, the most pre-ordered title of all time on the Microsoft Store, launches November 19. Considering the unprecedented demand, we encourage everyone to begin pre-l\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T15:45:00+00:00",
-      "category": "Video Games"
     },
     {
       "company": "PlayStation",
@@ -130,16 +130,6 @@
       "date": "Nov 09",
       "year": "2026",
       "timestamp": "2026-11-09T17:22:29+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "FragPunk Reveals Farlands: New Delivery PvPvE\u00a0Adventure Now Available in Early Access",
-      "summary": "FragPunk has launched its biggest new chapter yet with Farlands, a permanent, multiplayer delivery-driven PvPvE adventure where dozens of players share a persistent world, now avai\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access/",
-      "date": "Nov 09",
-      "year": "2026",
-      "timestamp": "2026-11-09T16:00:00+00:00",
       "category": "Other"
     },
     {
