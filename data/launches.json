@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-12T20:37:52.188621+00:00",
+  "generated_at": "2026-11-13T20:18:50.164812+00:00",
   "count": 14,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "QSSR arrives in Marvel\u2019s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+      "summary": "Six years after launch, PlayStation 5 is still getting better. Last month, we introduced Quick Spectral Super Resolution (QSSR), bringing AI-guided upscaling to the console you alr\u2026",
+      "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+      "date": "Nov 13",
+      "year": "2026",
+      "timestamp": "2026-11-13T14:00:16+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
+      "summary": "We\u2019re excited to announce that Guild Saga: Vanished Worlds is coming to PS5 in May 2027. In this story-driven tactical RPG, your first mission for the Heroes Guild takes an unexpec\u2026",
+      "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
+      "date": "Nov 13",
+      "year": "2026",
+      "timestamp": "2026-11-13T13:01:11+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Thanks for 25 Years, XBOX Players \u2014 From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
+      "summary": "Twenty-five years after the very first XBOX launched, Team XBOX came home to Seattle, the city where it all began, to close out our eight-city FanFest tour. The celebration has alw\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
+      "date": "Nov 13",
+      "year": "2026",
+      "timestamp": "2026-11-13T01:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Once Human: Season 5 gameplay showcases co-op Colossus boss battle, live November 18",
+      "summary": "What if a sky-spanning Colossus didn&#8217;t just loom overhead as a static backdrop, but actively listened and responded to your every gunshot? That\u2019s the core question driving ou\u2026",
+      "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T23:00:19+00:00",
+      "category": "Other"
+    },
     {
       "company": "Samsung",
       "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
@@ -11,6 +51,16 @@
       "year": "2026",
       "timestamp": "2026-11-12T23:00:00+00:00",
       "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility",
+      "summary": "Today, 21 more original XBOX games are coming to PC, bringing the XBOX Backward Compatibility on PC library to 25 games as we celebrate 25 years of XBOX. We\u2019re also introducing ach\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+      "date": "Nov 12",
+      "year": "2026",
+      "timestamp": "2026-11-12T21:02:29+00:00",
+      "category": "Video Games"
     },
     {
       "company": "Google",
@@ -63,16 +113,6 @@
       "category": "AI / Models"
     },
     {
-      "company": "Xbox",
-      "title": "How Luma Island Was Built For Everyone on XBOX Series X|S",
-      "summary": "Hello, XBOX community! We\u2019re Feel Free Games, an independent videogame development team based in the Netherlands. We\u2019d like to introduce you to Luma Island, our debut title, launch\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
-      "date": "Nov 11",
-      "year": "2026",
-      "timestamp": "2026-11-11T16:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
       "company": "Amazon",
       "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion",
       "summary": "The Region\u2014now operational for select customers ahead of general availability\u2014will support thousands of jobs in Chile.",
@@ -93,16 +133,6 @@
       "category": "Video Games"
     },
     {
-      "company": "PlayStation",
-      "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
-      "summary": "Marathon&#8216;s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we\u2019ve got first d\u2026",
-      "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T14:00:13+00:00",
-      "category": "Consumer Software"
-    },
-    {
       "company": "Amazon",
       "title": "Ring announces Ring Robotics, ushering in a new era of security",
       "summary": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.",
@@ -111,36 +141,6 @@
       "year": "2026",
       "timestamp": "2026-11-10T13:26:02+00:00",
       "category": "Wearables"
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "date": "Nov 09",
-      "year": "2026",
-      "timestamp": "2026-11-09T19:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon Leo to launch 40 satellites on its first Vulcan mission",
-      "summary": "Leo Vulcan 1 (LV-01) will carry the largest batch of Leo satellites to orbit yet and kick off a 38-launch partnership with ULA.",
-      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch?utm_source=rss",
-      "date": "Nov 09",
-      "year": "2026",
-      "timestamp": "2026-11-09T17:22:29+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with\u2026",
-      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-      "date": "Nov 09",
-      "year": "2026",
-      "timestamp": "2026-11-09T08:00:53+00:00",
-      "category": "Other"
     }
   ]
 }
