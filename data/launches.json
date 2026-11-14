@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T20:18:50.164812+00:00",
-  "count": 14,
+  "generated_at": "2026-11-14T18:38:11.147703+00:00",
+  "count": 12,
   "launches": [
     {
       "company": "PlayStation",
-      "title": "QSSR arrives in Marvel\u2019s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+      "title": "QSSR arrives in Marvel\u2019s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man\u2019s Sky, and Hell Let Loose: Vietnam",
       "summary": "Six years after launch, PlayStation 5 is still getting better. Last month, we introduced Quick Spectral Super Resolution (QSSR), bringing AI-guided upscaling to the console you alr\u2026",
       "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
       "date": "Nov 13",
@@ -121,26 +121,6 @@
       "year": "2026",
       "timestamp": "2026-11-11T15:37:45+00:00",
       "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
-      "summary": "Grand Theft Auto VI is now the most pre-ordered game in the history of PlayStation Store. Given this unprecedented demand, we&#8217;ve joined with Rockstar Games to allow players t\u2026",
-      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T15:41:17+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring announces Ring Robotics, ushering in a new era of security",
-      "summary": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.",
-      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot?utm_source=rss",
-      "date": "Nov 10",
-      "year": "2026",
-      "timestamp": "2026-11-10T13:26:02+00:00",
-      "category": "Wearables"
     }
   ]
 }
