@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T18:38:11.147703+00:00",
-  "count": 12,
+  "generated_at": "2026-11-15T19:13:48.933658+00:00",
+  "count": 9,
   "launches": [
     {
       "company": "PlayStation",
@@ -90,36 +90,6 @@
       "date": "Nov 12",
       "year": "2026",
       "timestamp": "2026-11-12T14:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Amazon",
-      "title": "How we built the agents that built AWS Emulator",
-      "summary": "Thousands of autonomous AI agents wrote every line of code in AWS Emulator, a new local emulator for AWS now available for download.",
-      "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator?utm_source=rss",
-      "date": "Nov 11",
-      "year": "2026",
-      "timestamp": "2026-11-11T17:25:18+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Google",
-      "title": "Talk it through with Gemini, now on Apple CarPlay",
-      "summary": "Gemini is now available on Apple CarPlay.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
-      "date": "Nov 11",
-      "year": "2026",
-      "timestamp": "2026-11-11T17:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Amazon",
-      "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion",
-      "summary": "The Region\u2014now operational for select customers ahead of general availability\u2014will support thousands of jobs in Chile.",
-      "url": "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch?utm_source=rss",
-      "date": "Nov 11",
-      "year": "2026",
-      "timestamp": "2026-11-11T15:37:45+00:00",
       "category": "Other"
     }
   ]
