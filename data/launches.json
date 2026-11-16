@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-15T19:13:48.933658+00:00",
-  "count": 9,
+  "generated_at": "2026-11-16T22:43:26.985786+00:00",
+  "count": 10,
   "launches": [
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDI\u2026",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T16:00:25+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA Announces Rubin HPC \u2014 A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytic\u2026",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T16:00:01+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "OpenAI",
+      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T09:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "OpenAI",
+      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+      "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T00:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "OpenAI",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T00:00:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "PlayStation",
       "title": "QSSR arrives in Marvel\u2019s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man\u2019s Sky, and Hell Let Loose: Vietnam",
@@ -50,46 +100,6 @@
       "date": "Nov 12",
       "year": "2026",
       "timestamp": "2026-11-12T23:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility",
-      "summary": "Today, 21 more original XBOX games are coming to PC, bringing the XBOX Backward Compatibility on PC library to 25 games as we celebrate 25 years of XBOX. We\u2019re also introducing ach\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T21:02:29+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Google",
-      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-      "summary": "Build faster with Gemini 4 Hydrogen, Google\u2019s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T18:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Google",
-      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
-      "summary": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T17:00:00+00:00",
-      "category": "Home & Appliances"
-    },
-    {
-      "company": "Google",
-      "title": "See our intelligent eyewear lineup and pre-order your pair",
-      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T14:00:00+00:00",
       "category": "Other"
     }
   ]
