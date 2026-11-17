@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-16T22:43:26.985786+00:00",
-  "count": 10,
+  "generated_at": "2026-11-17T21:29:17.273555+00:00",
+  "count": 13,
   "launches": [
+    {
+      "company": "Meta",
+      "title": "Muse Is Now Available in Australia: The World\u2019s First Personal AI Agent Built for Everyone",
+      "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Mus\u2026",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T18:00:31+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Google",
+      "title": "10 states team up with Google on free AI training",
+      "summary": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "summary": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "category": "Consumer Software"
+    },
+    {
+      "company": "Google",
+      "title": "Google Wallet is now available on iOS in the U.S.",
+      "summary": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Xbox",
+      "title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
+      "summary": "Gather around, gamers! We\u2019ve got more games coming your way, and there\u2019s a little something for everyone. In the mood for a little magic? Terrifying trials? High-stakes sniper miss\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Google",
+      "title": "Google Play unveils the best apps, games, and books of 2026",
+      "summary": "We\u2019re announcing Google Play\u2019s Best of 2026 awards, celebrating the best apps, games, and books of the year.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T15:00:00+00:00",
+      "category": "Gaming"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "Nov 17",
+      "year": "2026",
+      "timestamp": "2026-11-17T00:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
+      "summary": "The best time to grab a gift for gamers is launching on November 19 at 9 PM PST. During our Black Friday sale, save up to 80% on select XBOX and PC games, and check out discounts o\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
+      "date": "Nov 16",
+      "year": "2026",
+      "timestamp": "2026-11-16T23:57:43+00:00",
+      "category": "Video Games"
+    },
     {
       "company": "Nvidia",
       "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
@@ -50,56 +130,6 @@
       "date": "Nov 16",
       "year": "2026",
       "timestamp": "2026-11-16T00:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "PlayStation",
-      "title": "QSSR arrives in Marvel\u2019s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man\u2019s Sky, and Hell Let Loose: Vietnam",
-      "summary": "Six years after launch, PlayStation 5 is still getting better. Last month, we introduced Quick Spectral Super Resolution (QSSR), bringing AI-guided upscaling to the console you alr\u2026",
-      "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
-      "date": "Nov 13",
-      "year": "2026",
-      "timestamp": "2026-11-13T14:00:16+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
-      "summary": "We\u2019re excited to announce that Guild Saga: Vanished Worlds is coming to PS5 in May 2027. In this story-driven tactical RPG, your first mission for the Heroes Guild takes an unexpec\u2026",
-      "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
-      "date": "Nov 13",
-      "year": "2026",
-      "timestamp": "2026-11-13T13:01:11+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Xbox",
-      "title": "Thanks for 25 Years, XBOX Players \u2014 From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
-      "summary": "Twenty-five years after the very first XBOX launched, Team XBOX came home to Seattle, the city where it all began, to close out our eight-city FanFest tour. The celebration has alw\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
-      "date": "Nov 13",
-      "year": "2026",
-      "timestamp": "2026-11-13T01:00:00+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Once Human: Season 5 gameplay showcases co-op Colossus boss battle, live November 18",
-      "summary": "What if a sky-spanning Colossus didn&#8217;t just loom overhead as a static backdrop, but actively listened and responded to your every gunshot? That\u2019s the core question driving ou\u2026",
-      "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T23:00:19+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
-      "summary": "Samsung Electronics today announced the upcoming launch of the full lineup of intelligent eyewear, delivering a smarter way to see the world through intuitive, hands-free AI assist\u2026",
-      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
-      "date": "Nov 12",
-      "year": "2026",
-      "timestamp": "2026-11-12T23:00:00+00:00",
       "category": "Other"
     }
   ]
