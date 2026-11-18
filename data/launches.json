@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-17T21:29:17.273555+00:00",
-  "count": 13,
+  "generated_at": "2026-11-18T21:04:45.256531+00:00",
+  "count": 17,
   "launches": [
+    {
+      "company": "Google",
+      "title": "Genie 4 is now available",
+      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T18:00:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Begins One UI 9.5 Beta Program",
+      "summary": "Samsung has launched the One UI 9.5 beta program, giving users an early look at One UI 9.5 ahead of its official debut. The One UI 9.5 beta introduces more precise camera controls,\u2026",
+      "url": "https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T18:00:00+00:00",
+      "category": "Consumer Hardware"
+    },
+    {
+      "company": "Google",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T17:00:00+00:00",
+      "category": "Mobile Hardware"
+    },
+    {
+      "company": "PlayStation",
+      "title": "Grand Theft Auto VI launches tomorrow, November 19",
+      "summary": "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in\u2026",
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T16:00:23+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians ca\u2026",
+      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T14:07:00+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Nvidia",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Window\u2026",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "date": "Nov 18",
+      "year": "2026",
+      "timestamp": "2026-11-18T14:00:31+00:00",
+      "category": "AI / Models"
+    },
     {
       "company": "Meta",
       "title": "Muse Is Now Available in Australia: The World\u2019s First Personal AI Agent Built for Everyone",
@@ -33,16 +93,6 @@
       "category": "Consumer Software"
     },
     {
-      "company": "Google",
-      "title": "Google Wallet is now available on iOS in the U.S.",
-      "summary": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
-      "date": "Nov 17",
-      "year": "2026",
-      "timestamp": "2026-11-17T17:00:00+00:00",
-      "category": "Other"
-    },
-    {
       "company": "Xbox",
       "title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
       "summary": "Gather around, gamers! We\u2019ve got more games coming your way, and there\u2019s a little something for everyone. In the mood for a little magic? Terrifying trials? High-stakes sniper miss\u2026",
@@ -51,16 +101,6 @@
       "year": "2026",
       "timestamp": "2026-11-17T17:00:00+00:00",
       "category": "Video Games"
-    },
-    {
-      "company": "Google",
-      "title": "Google Play unveils the best apps, games, and books of 2026",
-      "summary": "We\u2019re announcing Google Play\u2019s Best of 2026 awards, celebrating the best apps, games, and books of the year.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
-      "date": "Nov 17",
-      "year": "2026",
-      "timestamp": "2026-11-17T15:00:00+00:00",
-      "category": "Gaming"
     },
     {
       "company": "OpenAI",
