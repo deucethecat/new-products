@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-11-19T21:09:37.272976+00:00",
-  "count": 19,
+  "generated_at": "2026-11-20T20:54:29.207230+00:00",
+  "count": 15,
   "launches": [
+    {
+      "company": "PlayStation",
+      "title": "Official PlayStation Podcast Episode 553: Peak Gaming",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y&#8217;all! Kristen and Tim dive into what they&#8217;ve been playing this week and fa\u2026",
+      "url": "https://blog.playstation.com/2026/11/20/official-playstation-podcast-episode-553-peak-gaming/",
+      "date": "Nov 20",
+      "year": "2026",
+      "timestamp": "2026-11-20T18:28:32+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Samsung",
+      "title": "Samsung Electronics Announces New Leadership",
+      "summary": "Samsung Electronics today announced new leadership for the next phase of the Company\u2019s growth and to strengthen its future competitiveness on the semiconductor business. Sang Joon \u2026",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5",
+      "date": "Nov 20",
+      "year": "2026",
+      "timestamp": "2026-11-20T09:01:00+00:00",
+      "category": "Other"
+    },
     {
       "company": "Google",
       "title": "Genie 4 is now available on the Gemini API.",
@@ -131,66 +151,6 @@
       "year": "2026",
       "timestamp": "2026-11-17T00:00:00+00:00",
       "category": "AI / Models"
-    },
-    {
-      "company": "Xbox",
-      "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
-      "summary": "The best time to grab a gift for gamers is launching on November 19 at 9 PM PST. During our Black Friday sale, save up to 80% on select XBOX and PC games, and check out discounts o\u2026",
-      "url": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T23:57:43+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDI\u2026",
-      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T16:00:25+00:00",
-      "category": "Consumer Software"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA Announces Rubin HPC \u2014 A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytic\u2026",
-      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T16:00:01+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "OpenAI",
-      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T09:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
-      "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T00:00:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "OpenAI",
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "date": "Nov 16",
-      "year": "2026",
-      "timestamp": "2026-11-16T00:00:00+00:00",
-      "category": "Other"
     }
   ]
 }
