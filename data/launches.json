@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T19:54:53.332133+00:00",
-  "count": 12,
+  "generated_at": "2026-11-22T20:07:34.555100+00:00",
+  "count": 7,
   "launches": [
     {
       "company": "PlayStation",
@@ -71,56 +71,6 @@
       "year": "2026",
       "timestamp": "2026-11-19T06:05:13+00:00",
       "category": "Consumer Software"
-    },
-    {
-      "company": "Google",
-      "title": "Genie 4 is now available",
-      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "date": "Nov 18",
-      "year": "2026",
-      "timestamp": "2026-11-18T18:00:00+00:00",
-      "category": "AI / Models"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Begins One UI 9.5 Beta Program",
-      "summary": "Samsung has launched the One UI 9.5 beta program, giving users an early look at One UI 9.5 ahead of its official debut. The One UI 9.5 beta introduces more precise camera controls,\u2026",
-      "url": "https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program",
-      "date": "Nov 18",
-      "year": "2026",
-      "timestamp": "2026-11-18T18:00:00+00:00",
-      "category": "Consumer Hardware"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Grand Theft Auto VI launches tomorrow, November 19",
-      "summary": "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in\u2026",
-      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
-      "date": "Nov 18",
-      "year": "2026",
-      "timestamp": "2026-11-18T16:00:23+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
-      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians ca\u2026",
-      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
-      "date": "Nov 18",
-      "year": "2026",
-      "timestamp": "2026-11-18T14:07:00+00:00",
-      "category": "Other"
-    },
-    {
-      "company": "Nvidia",
-      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Window\u2026",
-      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "date": "Nov 18",
-      "year": "2026",
-      "timestamp": "2026-11-18T14:00:31+00:00",
-      "category": "AI / Models"
     }
   ]
 }
