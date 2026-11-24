@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-24T00:34:07.975277+00:00",
-  "count": 4,
+  "generated_at": "2026-11-24T22:53:56.418237+00:00",
+  "count": 8,
   "launches": [
+    {
+      "company": "Amazon",
+      "title": "How Amazon Leo's satellites launch with help from 13 European countries",
+      "summary": "More than 600 European businesses help build the rockets that carry Amazon Leo satellites into orbit\u2014working together 'like an orchestra.'",
+      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-ariane-space?utm_source=rss",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T21:21:07+00:00",
+      "category": "Other"
+    },
+    {
+      "company": "Google",
+      "title": "We\u2019re launching Humanity\u2019s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "summary": "Google launches Humanity\u2019s First Exam to test LLM reliability across 544 prompts.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T19:30:00+00:00",
+      "category": "AI / Models"
+    },
+    {
+      "company": "Xbox",
+      "title": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet",
+      "summary": "The post Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet appeared first on XBOX Wire.",
+      "url": "https://news.xbox.com/en-us/2026/11/24/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibuilds-global-jet/",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T19:19:09+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Xbox",
+      "title": "Nioh 3 Is Coming to XBOX in 2027",
+      "summary": "2025 marked the \u201cYear of the Ninja\u201d when the legendary Team NINJA development team released both Ninja Gaiden 2 Blackand Ninja Gaiden 4. Well, 2027 is poised to be the \u201cReturn of t\u2026",
+      "url": "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut/",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T19:00:00+00:00",
+      "category": "Video Games"
+    },
+    {
+      "company": "Google",
+      "title": "We\u2019re expanding our London home in King's Cross.",
+      "summary": "In 2016, we arrived in King\u2019s Cross as founding residents of the Knowledge Quarter. Today, we\u2019re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint\u2026",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T08:00:00+00:00",
+      "category": "Home & Appliances"
+    },
+    {
+      "company": "Meta",
+      "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+      "summary": "Muse, Meta&#8217;s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance o\u2026",
+      "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/",
+      "date": "Nov 24",
+      "year": "2026",
+      "timestamp": "2026-11-24T06:00:04+00:00",
+      "category": "AI / Models"
+    },
     {
       "company": "PlayStation",
       "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history",
@@ -21,26 +81,6 @@
       "year": "2026",
       "timestamp": "2026-11-23T22:00:00+00:00",
       "category": "Gaming"
-    },
-    {
-      "company": "PlayStation",
-      "title": "Official PlayStation Podcast Episode 553: Peak Gaming",
-      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y&#8217;all! Kristen and Tim dive into what they&#8217;ve been playing this week and fa\u2026",
-      "url": "https://blog.playstation.com/2026/11/20/official-playstation-podcast-episode-553-peak-gaming/",
-      "date": "Nov 20",
-      "year": "2026",
-      "timestamp": "2026-11-20T18:28:32+00:00",
-      "category": "Video Games"
-    },
-    {
-      "company": "Samsung",
-      "title": "Samsung Electronics Announces New Leadership",
-      "summary": "Samsung Electronics today announced new leadership for the next phase of the Company\u2019s growth and to strengthen its future competitiveness on the semiconductor business. Sang Joon \u2026",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5",
-      "date": "Nov 20",
-      "year": "2026",
-      "timestamp": "2026-11-20T09:01:00+00:00",
-      "category": "Other"
     }
   ]
 }
